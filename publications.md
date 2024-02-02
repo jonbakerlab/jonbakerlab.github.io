@@ -6,9 +6,11 @@ layout: page
 
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
-<sup>#</sup>33.  Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., **Baker, J.L.**, Edlund, A., Petersen, F.C.  Ecological consequences of low ampicillin concentrations on an ex-vivo biofilm model of the human oral microbiome.  **Manuscript in submission.** Preprint available upon request.   
+<sup>#</sup>35. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.  **Manuscript in submission.** Preprint available upon request.
 
-<sup>#</sup>32.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
+<sup>#</sup>34.  Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., **Baker, J.L.**, Edlund, A., Petersen, F.C.  Ecological consequences of low ampicillin concentrations on an ex-vivo biofilm model of the human oral microbiome.  **Manuscript in submission.** Preprint available upon request.   
+
+<sup>#</sup>33.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
 
 32\.  **Baker, J.L.** [The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease.](https://github.com/jonbakerlab/jonbakerlab.github.io/blob/master/publication-pdfs/2023-12-14-OHSU-SODA_Anthology_Baker.pdf)  **OHSU School of Dentistry Anthology.** 2023 December 19; 1(1):3-11;doi:10.6083/bpxhc42395
 
