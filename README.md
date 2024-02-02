@@ -23,7 +23,7 @@ The Lactobacillales order of bacteria contains some of the most important pathog
 
 <br/>
 
-![The RESISFORCE Team!](assets/images/projects-RESISFORCE/IMG_3827.jpg "The RESISFORCE Team in Norway, 2023")
+![The RESISFORCE Team!](./assets/images/projects-RESISFORCE/IMG_3827.jpg "The RESISFORCE Team in Norway, 2023")
 
 <br/>
 
