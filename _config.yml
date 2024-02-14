@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "./about/index.md"}
-  - {file: "./lab-members/index.md"}
-  - {file: "./publications/index.md"}
+  - {file: "./about/index.md",title: "Our Research"}
+  - {file: "./lab-members/index.md", title: "Our Team"}
+  - {file: "./publications/index.md", title: "Publications"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bakerjo@ohsu.edu"}
