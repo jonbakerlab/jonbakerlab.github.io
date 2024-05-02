@@ -21,7 +21,7 @@ layout: page
 
 \*29.  **Baker, J.L.** Using nanopore sequencing to obtain complete genomes from saliva samples.  **mSystems**. 2022 Aug 22:e0049122. doi: 10.1128/msystems.00491-22. 
 
-28\.  **Baker, J.L.,** Tang, X., LaBonte, S., Uranga, C., Edlund, A.  *mucG,* *mucH,* and *mucI* modulate production of mutanocyclin and reutericyclins in *Streptococcus mutans* B04Sm5.  **Journal of Bacteriology.**  2022 April 11; doi: 10.1128/jb.00042-22
+28\.  **Baker, J.L.,** Tang, X., LaBonte, S., Uranga, C., Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf">*mucG,* *mucH,* and *mucI* modulate production of mutanocyclin and reutericyclins in *Streptococcus mutans* B04Sm5.</a> **Journal of Bacteriology.**  2022 April 11; doi: 10.1128/jb.00042-22
 
 27\.  **Baker, J.L.**  Complete genome sequence of Candidatus Nanosynbacter strain HMT-348\_TM7c-JB, a member of *Saccharibacteria* Clade G1.  **Microbiology Resource Announcements.**  2022 April 11; doi: 10.1128/mra.00023-22
 
