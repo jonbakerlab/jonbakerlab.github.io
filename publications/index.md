@@ -12,7 +12,7 @@ layout: page
 
 <sup>#</sup>33.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
 
-32\.  **Baker, J.L.** The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease. <a href="[https://github.com/jonbakerlab/jonbakerlab.github.io/blob/master/publication-pdfs/2023-12-14-OHSU-SODA_Anthology_Baker.pdf]" download>Click to Download</a>  **OHSU School of Dentistry Anthology.** 2023 December 19; 1(1):3-11;doi:10.6083/bpxhc42395
+32\.  **Baker, J.L.** The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease. <a href="[https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/2023-12-14-OHSU-SODA_Anthology_Baker.pdf]" download>Click to Download</a>  **OHSU School of Dentistry Anthology.** 2023 December 19; 1(1):3-11;doi:10.6083/bpxhc42395
 
 31\.  **Baker, J.L.,** Mark Welch, J.L., Kauffman, K., McLean, J.S., He, X.  The oral microbiome: diversity, biogeography and human health.  **Nature Reviews Microbiology.** 2023 September 12; doi:10.1038/s41579-023-00963-6
 
