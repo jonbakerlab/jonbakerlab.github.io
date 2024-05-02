@@ -1,4 +1,4 @@
-### Lipidomics of bacteria, and unsaturated fatty acid production in Streptcococci
+#### Lipidomics of bacteria, and unsaturated fatty acid production in Streptcococci
 
 A special current emphasis of research in The Baker Lab is using lipidomics to better understand the ways in which bacteria modify their cell membranes to adapt to their environment, and in some cases, cause disease. All cells, and many viruses, have membranes, which are composed of lipid bilayers.  The chemical properties of most membrane lipids render them notoriously difficult to study.  As a result, lipidomics is perhaps the least utilized major ‘omics discipline, and a relative deficiency exists in understanding the consequences of the lipidome in various contexts, despite certainty in its biological importance.  Bacterial cells all have at least one membrane, while Gram negative organisms have two.  Bacteria produce a diversity of lipids to the extent that many species can, in fact, be identified be their lipid profile alone (Abel *et al.*, 1963).  
 
