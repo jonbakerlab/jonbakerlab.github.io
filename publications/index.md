@@ -52,21 +52,15 @@ layout: page
 
 \*15.  Tang, X., Kudo, Y., **Baker, J.L.,** LaBonte, S., Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf">Cariogenic *Streptococcus mutans* produces tetramic acid strain-specific antibiotics that impair commensal colonization.</a>  **ACS Infectious Diseases.** 2020 April; 6(4):563-571; doi:10.1021/acsinfecdis.9b00365
 
-`	`\*Co-first author
+* Co-first author
 
-`	`\**Subject of spotlight article in* Chemical & Engineering News
-
-`	`[*https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01*](https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01)
+* [Subject of spotlight article in Chemical & Engineering News](https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01)
 
 \*14.  **Baker, J.L.,** Hendrickson, E.L., Tang, X., Lux, R., He, X., Edlund, A., McLean, J.S., Shi, W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al_PNAS.pdf">*Klebsiella* and *Providencia* emerge as lone survivors following long-term starvation of the oral microbiota.</a> **PNAS**.  2019 April 23; 116(17):8499-8504; doi: https://doi.org/10.1073/pnas.1820594116
 
-`	`\**Subject of press releases from JCVI, the Forsyth Institute, and the University of Washington*
+* [Subject of press releases from JCVI, the Forsyth Institute, and the University of Washington](https://www.forsyth.org/news/an-experimental-battle-royale-of-oral-bacteria-helps-explain-how-a-pathogen-causes-hospital-infections-2)
 
-`	`*<https://www.forsyth.org/news/an-experimental-battle-royale-of-oral-bacteria-helps-explain-how-a-pathogen-causes-hospital-infections-2/>* 
-
-\**Reccomended as being of special significance by Faculty of 1000Prime.*
-
-`	`*[https://f1000.com/prime/735541010*](https://f1000.com/prime/735541010)*
+* [Reccomended as being of special significance by Faculty of 1000Prime](https://f1000.com/prime/735541010)
 
 \*13.  Aleti, G., **Baker, J.L.,** Tang, X., Alvarez, R., Denis, M., Tran, N.C., Melnik, A.V., Zhong, C., Ernst, M., Dorrestein, P.C., Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/e00321-19.full.pdf">Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease.</a>  **mBio**. 2019 April 16;doi: https://doi.org/10.1128/mBio.00321-19
 
@@ -86,9 +80,7 @@ layout: page
 
 \*5.  **Baker, J.L.**,** Derr, A.D., Faustoferri, R.C., Quivey Jr., R.G.*,* <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/J.%20Bacteriol.-2015-Baker-3645-57.pdf">Loss of NADH oxidase activity in *Streptococcus mutans* leads to Rex-mediated overcompensation of NAD<sup>+</sup> regeneration by lactate dehydrogenase.</a> **Journal of Bacteriology**.  2015 Dec;  197(23):3645-57. doi: 10.1128/JB.00383-15.
 
-`	`*\*Selected for Spotlight Feature by the Journal of Bacteriology editor*
-
-`	`*[https://jb.asm.org/content/197/23/3625*](https://jb.asm.org/content/197/23/3625)*
+* [Selected for Spotlight Feature by the Journal of Bacteriology editor](https://jb.asm.org/content/197/23/3625*)
 
 4\.  **Baker, J.L.**,** Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2015-Molecular_Oral_Microbiology.pdf">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans.</a> **Molecular Oral Microbiology**.  2015 Dec; 30(6):496-517.
 
@@ -98,9 +90,8 @@ layout: page
 
 \*1.  Hollenbaugh,,J.A., Gee, P., **Baker, J.**,** Daly, M.B., Amie, S.M., Tate, J., Kasai, N., Kanemura, Y., Kim, D., Ward, B.M., Koyanagi, Y., Kim, B.  2013.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/journal.ppat.1003481-2.PDF">Host Factor SAMHD1 Restricts DNA Viruses in Non-Dividing Myeloid Cells.</a> **PLOS Pathogens**. 9(6) e1003481.
 
-`	`\**Selected for PLoS Pathogens 10 Year Anniversary Collection*
+* [Selected for PLoS Pathogens 10 Year Anniversary Collection](https://collections.plos.org/pathogens-10th-anniversary)
 
-`	`*[https://collections.plos.org/pathogens-10th-anniversary*](https://collections.plos.org/pathogens-10th-anniversary)*
 
 
 
