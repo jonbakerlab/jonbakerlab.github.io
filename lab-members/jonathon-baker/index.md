@@ -1,4 +1,4 @@
-<span style="font-size:24px;">Text goes here</span>  
+
 ### Jonathon L. Baker, Ph.D.
 **Principal Investigator**  
 **Assistant Professor**
