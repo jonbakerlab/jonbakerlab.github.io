@@ -74,7 +74,7 @@ layout: page
 
 
 
-10\.  **Baker, J.L.,** Lindsay, E.L., Faustoferri, R.C., To, T.T., Hendrickson, E.L., He, X., Shi, W., McLean, J.S., Quivey Jr., R.G.  Characterization of the trehalose utilization operon in *Streptococcus mutans* reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production.  **Journal of Bacteriology**. 2018 May 24;200(12): pii: JB.00057-18. doi: 10.1128/JB.00057-18.
+10\.  **Baker, J.L.,** Lindsay, E.L., Faustoferri, R.C., To, T.T., Hendrickson, E.L., He, X., Shi, W., McLean, J.S., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/J_Bacteriol_2018_Baker.PDF">Characterization of the trehalose utilization operon in *Streptococcus mutans* reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production.</a> **Journal of Bacteriology**. 2018 May 24;200(12): pii: JB.00057-18. doi: 10.1128/JB.00057-18.
 
 9\.  **Baker, J.L.,** Bor, B., Agnello, M., Shi, W., He, X.  Ecology of the oral microbiome:  beyond bacteria.  **Trends in Microbiology**. 2017 May; 25(5): 362-374. doi: 10.1016/j.tim.2016.12.012
 
