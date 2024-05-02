@@ -11,7 +11,7 @@ layout: page
 
 <sup>#</sup>35. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.  **Manuscript in submission.** Preprint available upon request.
 
-<sup>#</sup>33.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
+<sup>#</sup>34.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
 
 33\.  Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., **Baker, J.L.**, Edlund, A., Petersen, F.C.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s41522-024-00507-7.pdf">Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome</a> **npj Biofilms and Microbiomes** 2024 April 2; 10:37; doi:10.1038/s41522-024-00507-7 
 
