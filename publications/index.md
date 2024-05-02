@@ -7,9 +7,9 @@ layout: page
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
 
-<sup>#</sup>36.  Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., **Baker, J.L.**, Varble, A., Nizet, V., Veening, J.W.  An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies.  Preprint available upon request. 
+<sup>#</sup>36.  Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., **Baker, J.L.**, Varble, A., Nizet, V., Veening, J.W.  An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies.  [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2024.02.22.581527v1) 
 
-<sup>#</sup>35. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.  **Manuscript in submission.** Preprint available upon request.
+<sup>#</sup>35. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation. [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2023.12.18.572173v1)
 
 <sup>#</sup>34.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
 
