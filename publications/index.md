@@ -41,7 +41,7 @@ layout: page
 
 19\.  **Baker, J.L.,** Edlund, A.  Composite long- and short-read sequencing delivers a complete genome sequence of B04Sm5, a reutericyclin- and mutanocyclin-producing strain of *Streptococcus mutans.*  **Microbiology Resource Announcements.** 2020 Nov; 9:e01067-20. doi:10.1128/MRA.01067-20
 
-18\.  Momeni, S., Beno, S., **Baker, J.L.,** Edlund, A., Ghazal, T., Wu, H., Childers, N.K.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Momeni-JDR.pdf">Caries-associated biosynthetic gene clusters of *Streptococcus mutans.</a>*  **Journal of Dental Research.** 2020 July; 99(8):969-976; doi:10.1177/0022034520914519
+18\.  Momeni, S., Beno, S., **Baker, J.L.,** Edlund, A., Ghazal, T., Wu, H., Childers, N.K.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Momeni-JDR.pdf">Caries-associated biosynthetic gene clusters of *Streptococcus mutans*.</a> **Journal of Dental Research.** 2020 July; 99(8):969-976; doi:10.1177/0022034520914519
 
 17\.  Yang, Y., Shen, W., Zhong, Q., He, X., **Baker, J.L.,** Xiong, K., Jin, X., Wang, J., Hu, F., Le, S.  Development of a bacteriophage cocktail to constrain the emergence of phage-resistant *Pseudomonas aeruginosa.*  **Frontiers in Microbiology.**  2020 March 4; 11:327; doi:10.339/fmicb.2020.00327
 
