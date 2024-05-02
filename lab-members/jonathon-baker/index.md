@@ -1,6 +1,11 @@
+<img src="/assets/images/homepage-general/baker-labcoat.JPG" width="450" height="300" style="display: inline; margin: auto;" />
+
+<br/>
+
 <span style="font-size:24px; font-weight: bold;">Jonathon L. Baker, Ph.D.</span>  
 **Principal Investigator**  
-**Assistant Professor**
+**Assistant Professor**  
+[bakerjo@ohsu.edu](mailto:bakerjo@ohsu.edu)
 
 Jonathon Baker, PhD, joined the Department of Oral Rehabilitation & Biosciences at OHSU in 2023. The research in Dr. Baker’s laboratory leverages emerging technologies in bioinformatics and molecular biology to answer fundamental questions regarding the ecology, physiology, and pathogenesis of the human oral microbiome.  The oral microbiome is a unique and diverse community of bacteria, viruses, fungi, and archaea that plays a major role in human health.  The health-associated oral microbiota exhibits colonization resistance and plays an active role in preventing dysbiosis and associated disease. Meanwhile, dysbiosis of the oral microbiome, even on a highly localized scale, is responsible for dental caries and periodontal disease, both extremely prevalent and costly.  Furthermore, the majority of oral cancers are driven by oral infection with viruses such as human papilloma virus (HPV) and Epstein-Barr virus (EBV).  In addition to oral diseases, there are increasing lines of evidence linking the oral microbiota to a myriad of extra-oral and systemic diseases, such obesity, diabetes, cardiovascular disease, inflammatory bowel disease, nonalcoholic fatty liver disease, rheumatoid arthritis, colorectal cancers, and Alzheimer’s Disease. 
 
