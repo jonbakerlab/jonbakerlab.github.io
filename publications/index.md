@@ -37,7 +37,7 @@ layout: page
 
 \*21.  **Baker, J.L.,** Morton, J.T., Dinis, M., Alvarez, R., Tran, N.C., Knight, R., Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Genome%20Res.-2021-Baker-64-74.pdf">Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules.</a> **Genome Research.** 2021 January; 31(1):64-74. doi: 10.1101/gr.265645.120
 
-20\.  **Baker, J.L.,** Edlund, A.  Identification of bacterial biosynthetic gene clusters associated with caries.  *In* Adami, G., (ed), **The Oral Microbiome: Methods and Protocols.** Springer Science+Business Media, LLC. 2021.  IBSN: 978-1-0716-1517-1
+20\.  **Baker, J.L.,** Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/bok-978-1-0716-1518-8.pdf">Identification of bacterial biosynthetic gene clusters associated with caries.</a>  *In* Adami, G., (ed), **The Oral Microbiome: Methods and Protocols.** Springer Science+Business Media, LLC. 2021.  IBSN: 978-1-0716-1517-1
 
 19\.  **Baker, J.L.,** Edlund, A.  Composite long- and short-read sequencing delivers a complete genome sequence of B04Sm5, a reutericyclin- and mutanocyclin-producing strain of *Streptococcus mutans.*  **Microbiology Resource Announcements.** 2020 Nov; 9:e01067-20. doi:10.1128/MRA.01067-20
 
@@ -65,21 +65,21 @@ layout: page
 
 `	`*[https://f1000.com/prime/735541010*](https://f1000.com/prime/735541010)*
 
-\*13.  Aleti, G., **Baker, J.L.,** Tang, X., Alvarez, R., Denis, M., Tran, N.C., Melnik, A.V., Zhong, C., Ernst, M., Dorrestein, P.C., Edlund, A.  Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease.  **mBio**. 2019 April 16;doi: https://doi.org/10.1128/mBio.00321-19
+\*13.  Aleti, G., **Baker, J.L.,** Tang, X., Alvarez, R., Denis, M., Tran, N.C., Melnik, A.V., Zhong, C., Ernst, M., Dorrestein, P.C., Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/e00321-19.full.pdf">Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease.</a>  **mBio**. 2019 April 16;doi: https://doi.org/10.1128/mBio.00321-19
 
 12\.  **Baker, J.L.,** He, X., Shi, W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/ADR2019.pdf">Precision reengineering of the oral microbiome for caries management.</a>  **Advances in Dental Research**.  2019 October 21; 30(2), 34-39; doi: https://doi.org/10.1177/0022034519877386
 
-11\.  **Baker, J.L.,** Edlund, A.  Exploiting the oral microbiome to prevent tooth decay:  has evolution already provided the best tools?  **Frontiers in Microbiology**.  2019 Jan 11; 9:3323; doi: 10.3389/fmicb2018.03323
+11\.  **Baker, J.L.,** Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fmicb-09-03323.pdf">Exploiting the oral microbiome to prevent tooth decay:  has evolution already provided the best tools?</a>  **Frontiers in Microbiology**.  2019 Jan 11; 9:3323; doi: 10.3389/fmicb2018.03323
 
 10\.  **Baker, J.L.,** Lindsay, E.L., Faustoferri, R.C., To, T.T., Hendrickson, E.L., He, X., Shi, W., McLean, J.S., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/J_Bacteriol_2018_Baker.PDF">Characterization of the trehalose utilization operon in *Streptococcus mutans* reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production.</a> **Journal of Bacteriology**. 2018 May 24;200(12): pii: JB.00057-18. doi: 10.1128/JB.00057-18.
 
-9\.  **Baker, J.L.,** Bor, B., Agnello, M., Shi, W., He, X.  Ecology of the oral microbiome:  beyond bacteria.  **Trends in Microbiology**. 2017 May; 25(5): 362-374. doi: 10.1016/j.tim.2016.12.012
+9\.  **Baker, J.L.,** Bor, B., Agnello, M., Shi, W., He, X.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Ecology%20of%20the%20Oral%20Microbiome.pdf">Ecology of the oral microbiome:  beyond bacteria.</a>  **Trends in Microbiology**. 2017 May; 25(5): 362-374. doi: 10.1016/j.tim.2016.12.012
 
 8\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2016-Molecular_Oral_Microbiology.pdf">Acid-adaptive mechanisms of *Streptococcus mutans*—the more we know, the more we don’t.</a> **Molecular Oral Microbiology**.  2017 Apr; 32(2): 107-117. doi:  10.1111/omi.12162
 
 7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans.</a> **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
 
-6\.  Faustoferri, R.C., Santiago, B., <b>Baker, J.L.</b>, Cross, B., Xiao, J., Quivey Jr., R.G.  Acid adaptive responses of <i>S. mutans,</i> and mechanisms of integration with oxidative stress.  <i>In</i> de Bruijn, F. (ed), <b>Stress and Environmental Control of Gene Expression in Bacteria, 1<sup>st</sup> Edition</b>.  John Wiley & Sons, Inc.  2016 Aug; ISBN: 9781119004882
+6\.  Faustoferri, R.C., Santiago, B., <b>Baker, J.L.</b>, Cross, B., Xiao, J., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/ch88-2.pdf">Acid adaptive responses of <i>S. mutans,</i> and mechanisms of integration with oxidative stress.</a> <i>In</i> de Bruijn, F. (ed), <b>Stress and Environmental Control of Gene Expression in Bacteria, 1<sup>st</sup> Edition</b>.  John Wiley & Sons, Inc.  2016 Aug; ISBN: 9781119004882
 
 \*5.  **Baker, J.L.**,** Derr, A.D., Faustoferri, R.C., Quivey Jr., R.G.*,* Loss of NADH oxidase activity in *Streptococcus mutans* leads to Rex-mediated overcompensation of NAD<sup>+</sup> regeneration by lactate dehydrogenase.  **Journal of Bacteriology**.  2015 Dec;  197(23):3645-57. doi: 10.1128/JB.00383-15.
 
