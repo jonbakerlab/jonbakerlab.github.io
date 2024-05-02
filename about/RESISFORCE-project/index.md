@@ -1,4 +1,4 @@
-### RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research
+#### RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research
 <br/>
 
 
