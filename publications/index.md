@@ -47,7 +47,7 @@ layout: page
 
 16\.  **Baker, J.L.,** Saputo, S., Faustoferri, R., Quivey Jr., R.G.  *Streptococcus mutans* SpxA2 relays the signal of cell envelope stress from LiaR to effectors that maintain cell wall and membrane homeostasis.  **Molecular Oral Microbiology.** 2020 June; 35(3): 118-128; doi:10.1111/omi.12282
 
-\*15.  Tang, X., Kudo, Y., **Baker, J.L.,** LaBonte, S., Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A.  Cariogenic *Streptococcus mutans* produces tetramic acid strain-specific antibiotics that impair commensal colonization*.*  **ACS Infectious Diseases.** 2020 April; 6(4):563-571; doi:10.1021/acsinfecdis.9b00365
+\*15.  Tang, X., Kudo, Y., **Baker, J.L.,** LaBonte, S., Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf">Cariogenic *Streptococcus mutans* produces tetramic acid strain-specific antibiotics that impair commensal colonization.</a>  **ACS Infectious Diseases.** 2020 April; 6(4):563-571; doi:10.1021/acsinfecdis.9b00365
 
 `	`\*Co-first author
 
