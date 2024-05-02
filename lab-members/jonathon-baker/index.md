@@ -1,5 +1,4 @@
-
-### Jonathon L. Baker, Ph.D.
+<span style="font-size:24px; font-weight: bold;">Jonathon L. Baker, Ph.D.</span>  
 **Principal Investigator**  
 **Assistant Professor**
 
