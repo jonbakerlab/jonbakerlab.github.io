@@ -11,7 +11,7 @@ layout: page
 
 <img src="/assets/images/homepage-general/graphical-abstract.jpg" style="display: block; margin: auto;" />
 
-### Lipidomics of bacteria, and unsaturated fatty acid production in Streptcococci
+### [Lipidomics of bacteria, and unsaturated fatty acid production in Streptcococci](./lipidomics-project/index.md)
 
 A special current emphasis of research in The Baker Lab is using lipidomics to better understand the ways in which bacteria modify their cell membranes to adapt to their environment, and in some cases, cause disease. All cells, and many viruses, have membranes, which are composed of lipid bilayers.  The chemical properties of most membrane lipids render them notoriously difficult to study.  As a result, lipidomics is perhaps the least utilized major ‘omics discipline, and a relative deficiency exists in understanding the consequences of the lipidome in various contexts, despite certainty in its biological importance.  Bacterial cells all have at least one membrane, while Gram negative organisms have two.  Bacteria produce a diversity of lipids to the extent that many species can, in fact, be identified be their lipid profile alone (Abel *et al.*, 1963).  
 
@@ -21,7 +21,7 @@ The Lactobacillales order of bacteria contains some of the most important pathog
 
 
 
-### RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research
+### [RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research](./RESISFORCE-project/index.md)
 
 <br/>
 
@@ -36,7 +36,7 @@ The Baker Lab will also be hosting our 4-day annual RESISFORCE symposium here at
 
 <br/><br/>
 
-### Nanopore sequencing:  leveraging an emerging technology
+### [Nanopore sequencing:  leveraging an emerging technology](./nanopore-project/index.md)
 
 As stated above, the development of culture-independent analysis of microbiomes was enabled by so-called next-generation sequencing (Bennett, 2004, Margulies *et al.*, 2005, Bentley *et al.*, 2008, McKernan *et al.*, 2009).  Illumina was the most broadly used sequencing platform of 2010s, and revolutionized the life sciences by reducing the cost of sequencing by orders of magnitude, providing exceptionally accurate sequencing data, and increasing throughput. However, the latest generation of emerging sequencing technologies (i.e., “third generation sequencing”) is in in the process of disrupting biomedical research once more (Athanasopoulou *et al.*, 2021).  One particular technology that has gained considerable traction in the last several years is nanopore sequencing (Oxford Nanopore Technologies, Inc. [ONT]) (Jain *et al.*, 2015).  While Illumina sequencing-by-synthesis technology generates sequences that are generally 150 or 300 base pairs of DNA in length, ONT sequencing theoretically has no upper limit on the length of output sequence, with single reads of over 1 million base pairs of DNA routinely reported (Jain *et al.*, 2015).  Because most genomes contain repeat regions spanning much longer than 300 base pairs, the puzzle that is a given genome cannot typically be completed with Illumina short-read sequencing alone (i.e., because all these short reads match up nonspecifically to all their cognate sequences in the repeat regions of the chromosome).  The long reads produced by ONT sequencing much more easily span the repeat regions of genomes enabling significantly easier assembly of complete chromosomes.  However, until recently ONT technology was plagued with a considerably higher error rate than competing technologies, limiting its applicability (Amarasinghe *et al.*, 2020).  This error rate decreased in recent years, with a crucial inflection point being reached in 2022, when studies illustrated that the contemporary ONT instrumentation and software could produce genome assemblies with an error rate on par with Illumina sequencing (Sereika *et al.*, 2022).  
 
