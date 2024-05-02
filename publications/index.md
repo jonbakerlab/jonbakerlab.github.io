@@ -80,8 +80,7 @@ layout: page
 
 8\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  Acid-adaptive mechanisms of *Streptococcus mutans—*the more we know, the more we don’t**.  Molecular Oral Microbiology**.  2017 Apr; 32(2): 107-117. doi:  10.1111/omi.12162
 
-7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans.</a>
-*  **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
+7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans.</a> **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
 
 6\.  Faustoferri, R.C., Santiago, B., <b>Baker, J.L.</b>, Cross, B., Xiao, J., Quivey Jr., R.G.  Acid adaptive responses of <i>S. mutans,</i> and mechanisms of integration with oxidative stress.  <i>In</i> de Bruijn, F. (ed), <b>Stress and Environmental Control of Gene Expression in Bacteria, 1<sup>st</sup> Edition</b>.  John Wiley & Sons, Inc.  2016 Aug; ISBN: 9781119004882
 
@@ -91,8 +90,7 @@ layout: page
 
 `	`*[https://jb.asm.org/content/197/23/3625*](https://jb.asm.org/content/197/23/3625)*
 
-4\.  **Baker, J.L.**,** Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2015-Molecular_Oral_Microbiology.pdf">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans.</a>
-*  **Molecular Oral Microbiology**.  2015 Dec; 30(6):496-517.
+4\.  **Baker, J.L.**,** Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2015-Molecular_Oral_Microbiology.pdf">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans.</a> **Molecular Oral Microbiology**.  2015 Dec; 30(6):496-517.
 
 3\.  **Baker, J.L.,** Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.  *Streptococcus mutans* NADH oxidase lies at the intersection of overlapping regulons controlled by oxygen and NAD<sup>+</sup> Levels.  **Journal of Bacteriology**.  2014 June; 196(12):2166-2177.
 
