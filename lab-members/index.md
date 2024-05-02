@@ -1,6 +1,6 @@
 ---
 title: "Lab Members"
-permalink: "/members/"
+permalink: "/lab-members/"
 layout: page
 ---
 
