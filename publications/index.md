@@ -90,7 +90,8 @@ layout: page
 
 `	`*[https://jb.asm.org/content/197/23/3625*](https://jb.asm.org/content/197/23/3625)*
 
-4\.  **Baker, J.L.**,** Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.  Transcriptional profile of glucose-shocked and acid-adapted strains of *Streptococcus mutans.*  **Molecular Oral Microbiology**.  2015 Dec; 30(6):496-517.
+4\.  **Baker, J.L.**,** Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2015-Molecular_Oral_Microbiology.pdf">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans.</a>
+*  **Molecular Oral Microbiology**.  2015 Dec; 30(6):496-517.
 
 3\.  **Baker, J.L.,** Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.  *Streptococcus mutans* NADH oxidase lies at the intersection of overlapping regulons controlled by oxygen and NAD<sup>+</sup> Levels.  **Journal of Bacteriology**.  2014 June; 196(12):2166-2177.
 
