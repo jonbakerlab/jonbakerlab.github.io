@@ -35,7 +35,7 @@ layout: page
 
 22\.  **Baker, J.L.**  A complete genome sequence of strain JB001, a member of *Saccharibacteria* clade G6 (“Ca. Nanogingivalaceae”).  **Microbiology Resource Announcements.** 2021 Jun;10(23):e0051721 doi: 10.1128/MRA.00517-21
 
-\*21.  **Baker, J.L.,** Morton, J.T., Dinis, M., Alvarez, R., Tran, N.C., Knight, R., Edlund, A.  Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules.  **Genome Research.** 2021 January; 31(1):64-74. doi: 10.1101/gr.265645.120
+\*21.  **Baker, J.L.,** Morton, J.T., Dinis, M., Alvarez, R., Tran, N.C., Knight, R., Edlund, A.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Genome%20Res.-2021-Baker-64-74.pdf">Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules.</a> **Genome Research.** 2021 January; 31(1):64-74. doi: 10.1101/gr.265645.120
 
 20\.  **Baker, J.L.,** Edlund, A.  Identification of bacterial biosynthetic gene clusters associated with caries.  *In* Adami, G., (ed), **The Oral Microbiome: Methods and Protocols.** Springer Science+Business Media, LLC. 2021.  IBSN: 978-1-0716-1517-1
 
