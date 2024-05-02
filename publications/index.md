@@ -94,7 +94,7 @@ layout: page
 
 3\.  **Baker, J.L.,** Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.  *Streptococcus mutans* NADH oxidase lies at the intersection of overlapping regulons controlled by oxygen and NAD<sup>+</sup> Levels.  **Journal of Bacteriology**.  2014 June; 196(12):2166-2177.
 
-2\.  **Baker, J.L.**, Ward, B.M.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/1-s2.0-S0166093413004308-main.pdf">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions</a> Journal of Virological Methods**. 2014.  196:126-132.
+2\.  **Baker, J.L.**, Ward, B.M.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/1-s2.0-S0166093413004308-main.pdf">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions.</a> Journal of Virological Methods**. 2014.  196:126-132.
 
 \*1.  Hollenbaugh,,J.A., Gee, P., **Baker, J.**,** Daly, M.B., Amie, S.M., Tate, J., Kasai, N., Kanemura, Y., Kim, D., Ward, B.M., Koyanagi, Y., Kim, B.  2013.  Host Factor SAMHD1 Restricts DNA Viruses in Non-Dividing Myeloid Cells.  **PLOS Pathogens**. 9(6) e1003481.
 
