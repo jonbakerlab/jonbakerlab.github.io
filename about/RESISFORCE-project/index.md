@@ -1,10 +1,12 @@
-#### RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research
+<img src="/assets/images/projects-RESISFORCE/IMG_3827.jpg" width="750" height="422" style="display: block; margin: auto;" />
+
+<br/>
+
+<span style="font-size:24px; font-weight: bold;">RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research</span>  
+
 <br/>
 
 
-<img src="/assets/images/projects-RESISFORCE/IMG_3827.jpg" style="display: block; margin: auto;" />
-
-<br/>
 
 Resistance of pathogenic microbes to antibiotics is a growing worldwide concern, with global deaths due to antibiotic resistance predicted to overtake global deaths due to cancer and become the #1 cause of death worldwide by 2050 (Brown *et al.*, 2017).  Our RESISFORCE project, funded by the Research Council of Norway, partners research labs from the Norwegian Institute of Public Health, the University of Oslo, TATA Consultancy Services (based in Delhi, India), the University of Campinas (Piracicaba, Brazil), McGill University (Montreal, Canada), the University of Illinois at Chicago, the Forsyth Institute, and OHSU to engage diverse trainees, clinicians, and scientists in educational outreach regarding the accelerating antibiotic resistance crisis and antibiotic stewardship.  The Baker Lab has been an active partner in this project since 2019, and has facilitated RESISFORCE outreach symposia at dental conferences in Brussels, Belgium (CED-IADR 2021) and Marseille, France (PER-IADR 2022), as well as intensive symposia and hands-on workshops for trainees at the University of Oslo (2023) and the University of Campinas (2019, 2022).  Our team has also produced a massive online open course (MOOC), entitled “Exploring the Landscape of Antibiotic Resistance in Microbiomes”, available on FutureLearn.  This free online course enables interested clinicians, researchers, students, as well as members of the public, to discover how antibiotic resistance has emerged as one of the most urgent public health threats, explore how the study of antibiotic resistance genes helps us understand antibiotic resistance, and get hands-on experience examining data using the ResistoXplorer online tool (<http://www.resistoxplorer.no> ; itself produced as a collaboration initiated through the RESISFORCE project (Dhariwal *et al.*, 2021)).  RESISFORCE has also sponsored several international researcher exchanges between labs participating on the project, provided networking opportunities, and fostered fruitful research collaborations between the participating labs (Junges *et al.*, 2018, Junges *et al.*, 2019, Junges *et al.*, 2019, Ricomini Filho *et al.*, 2019, Salvadori *et al.*, 2019, Dhariwal *et al.*, 2021, Bajalan *et al.*, 2022, Dornelas-Figueira *et al.*, 2023, Junges *et al.*, 2023).  Since dentists account for approximately 10% of all antibiotic prescriptions, and antibiotic resistance and stewardship are frequently neglected topics in dental school curriculum, the unique dentistry-focused international outreach of this program is expected to be particularly impactful (Ramanathan *et al.*, 2023).  
 
