@@ -80,7 +80,8 @@ layout: page
 
 8\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  Acid-adaptive mechanisms of *Streptococcus mutans—*the more we know, the more we don’t**.  Molecular Oral Microbiology**.  2017 Apr; 32(2): 107-117. doi:  10.1111/omi.12162
 
-7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  A modified chromogenic assay for determination of free intracellular NAD+/NADH in *Streptococcus mutans.*  **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
+7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans.</a>
+*  **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
 
 6\.  Faustoferri, R.C., Santiago, B., <b>Baker, J.L.</b>, Cross, B., Xiao, J., Quivey Jr., R.G.  Acid adaptive responses of <i>S. mutans,</i> and mechanisms of integration with oxidative stress.  <i>In</i> de Bruijn, F. (ed), <b>Stress and Environmental Control of Gene Expression in Bacteria, 1<sup>st</sup> Edition</b>.  John Wiley & Sons, Inc.  2016 Aug; ISBN: 9781119004882
 
