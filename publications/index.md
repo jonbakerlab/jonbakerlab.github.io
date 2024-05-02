@@ -17,7 +17,7 @@ layout: page
 31\.  **Baker, J.L.,** Mark Welch, J.L., Kauffman, K., McLean, J.S., He, X.  The oral microbiome: diversity, biogeography and human health.  **Nature Reviews Microbiology.** 2023 September 12; doi:10.1038/s41579-023-00963-6
 
 
-30\.  **Baker, J.L.**  Illuminating the oral microbiome and its host interactions:  recent advancements in omics and bioinformatics technologies in the context of oral microbiome research.  **FEMS Microbiology Reviews.** 2023 September 4; doi: 10.1093/femsre/fuad051
+30\.  **Baker, J.L.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fuad051.pdf">Illuminating the oral microbiome and its host interactions:  recent advancements in omics and bioinformatics technologies in the context of oral microbiome research.</a> **FEMS Microbiology Reviews.** 2023 September 4; doi: 10.1093/femsre/fuad051
 
 \*29.  **Baker, J.L.** Using nanopore sequencing to obtain complete genomes from saliva samples.  **mSystems**. 2022 Aug 22:e0049122. doi: 10.1128/msystems.00491-22. 
 
