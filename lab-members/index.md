@@ -4,6 +4,8 @@ permalink: "/lab-members/"
 layout: page
 ---
 
+<img src="/assets/images/homepage-general/headshot-cropped.jpg" style="display: block; margin: auto;" />
+
 ### [Jonathon L. Baker, Ph.D.](./jonathon-baker/index.md)
 #### Assistant Professor
 
