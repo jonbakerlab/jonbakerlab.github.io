@@ -11,5 +11,5 @@ Jonathon Baker, PhD, joined the Department of Oral Rehabilitation & Biosciences 
 
 Originally from Rochester, NY, Dr. Baker has a PhD in Microbiology & Immunology from the University of Rochester School of Medicine & Dentistry and a BS in biology from SUNY Geneseo. Prior to joining the faculty at OHSU, Baker conducted research in the Genomic Medicine Group at the J. Craig Venter Institute, the Department of Pediatrics at the UC San Diego School of Medicine, the Department of Oral Biology at the UCLA School of Dentistry and in the Vaccine Research and Early Development group at Pfizer, Inc.
 
-### Jonah Tang
+### [Jonah Tang](./jonah-tang.md)
 #### Research Assistant
