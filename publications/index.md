@@ -43,7 +43,7 @@ layout: page
 
 18\.  Momeni, S., Beno, S., **Baker, J.L.,** Edlund, A., Ghazal, T., Wu, H., Childers, N.K.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Momeni-JDR.pdf">Caries-associated biosynthetic gene clusters of *Streptococcus mutans*.</a> **Journal of Dental Research.** 2020 July; 99(8):969-976; doi:10.1177/0022034520914519
 
-17\.  Yang, Y., Shen, W., Zhong, Q., He, X., **Baker, J.L.,** Xiong, K., Jin, X., Wang, J., Hu, F., Le, S.  Development of a bacteriophage cocktail to constrain the emergence of phage-resistant *Pseudomonas aeruginosa.*  **Frontiers in Microbiology.**  2020 March 4; 11:327; doi:10.339/fmicb.2020.00327
+17\.  Yang, Y., Shen, W., Zhong, Q., He, X., **Baker, J.L.,** Xiong, K., Jin, X., Wang, J., Hu, F., Le, S.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fmicb-11-00327.pdf">Development of a bacteriophage cocktail to constrain the emergence of phage-resistant *Pseudomonas aeruginosa.*</a> **Frontiers in Microbiology.**  2020 March 4; 11:327; doi:10.339/fmicb.2020.00327
 
 16\.  **Baker, J.L.,** Saputo, S., Faustoferri, R., Quivey Jr., R.G.  *Streptococcus mutans* SpxA2 relays the signal of cell envelope stress from LiaR to effectors that maintain cell wall and membrane homeostasis.  **Molecular Oral Microbiology.** 2020 June; 35(3): 118-128; doi:10.1111/omi.12282
 
@@ -55,7 +55,7 @@ layout: page
 
 `	`[*https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01*](https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01)
 
-\*14.  **Baker, J.L.,** Hendrickson, E.L., Tang, X., Lux, R., He, X., Edlund, A., McLean, J.S., Shi, W.  *Klebsiella* and *Providencia* emerge as lone survivors following long-term starvation of the oral microbiota.  **PNAS**.  2019 April 23; 116(17):8499-8504; doi: https://doi.org/10.1073/pnas.1820594116
+\*14.  **Baker, J.L.,** Hendrickson, E.L., Tang, X., Lux, R., He, X., Edlund, A., McLean, J.S., Shi, W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al_PNAS.pdf">*Klebsiella* and *Providencia* emerge as lone survivors following long-term starvation of the oral microbiota.</a> **PNAS**.  2019 April 23; 116(17):8499-8504; doi: https://doi.org/10.1073/pnas.1820594116
 
 `	`\**Subject of press releases from JCVI, the Forsyth Institute, and the University of Washington*
 
@@ -67,18 +67,15 @@ layout: page
 
 \*13.  Aleti, G., **Baker, J.L.,** Tang, X., Alvarez, R., Denis, M., Tran, N.C., Melnik, A.V., Zhong, C., Ernst, M., Dorrestein, P.C., Edlund, A.  Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease.  **mBio**. 2019 April 16;doi: https://doi.org/10.1128/mBio.00321-19
 
-12\.  **Baker, J.L.,** He, X., Shi, W.  Precision reengineering of the oral microbiome for caries management.  **Advances in Dental Research**.  2019 October 21; 30(2), 34-39; doi: https://doi.org/10.1177/0022034519877386
+12\.  **Baker, J.L.,** He, X., Shi, W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/ADR2019.pdf">Precision reengineering of the oral microbiome for caries management.</a>  **Advances in Dental Research**.  2019 October 21; 30(2), 34-39; doi: https://doi.org/10.1177/0022034519877386
 
 11\.  **Baker, J.L.,** Edlund, A.  Exploiting the oral microbiome to prevent tooth decay:  has evolution already provided the best tools?  **Frontiers in Microbiology**.  2019 Jan 11; 9:3323; doi: 10.3389/fmicb2018.03323
-
-
-
 
 10\.  **Baker, J.L.,** Lindsay, E.L., Faustoferri, R.C., To, T.T., Hendrickson, E.L., He, X., Shi, W., McLean, J.S., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/J_Bacteriol_2018_Baker.PDF">Characterization of the trehalose utilization operon in *Streptococcus mutans* reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production.</a> **Journal of Bacteriology**. 2018 May 24;200(12): pii: JB.00057-18. doi: 10.1128/JB.00057-18.
 
 9\.  **Baker, J.L.,** Bor, B., Agnello, M., Shi, W., He, X.  Ecology of the oral microbiome:  beyond bacteria.  **Trends in Microbiology**. 2017 May; 25(5): 362-374. doi: 10.1016/j.tim.2016.12.012
 
-8\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  Acid-adaptive mechanisms of *Streptococcus mutans—*the more we know, the more we don’t**.  Molecular Oral Microbiology**.  2017 Apr; 32(2): 107-117. doi:  10.1111/omi.12162
+8\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2016-Molecular_Oral_Microbiology.pdf">Acid-adaptive mechanisms of *Streptococcus mutans*—the more we know, the more we don’t.</a> **Molecular Oral Microbiology**.  2017 Apr; 32(2): 107-117. doi:  10.1111/omi.12162
 
 7\.  **Baker, J.L.,** Faustoferri, R.C., Quivey, Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans.</a> **Bio-Protocol**.  2016 Aug; 6(16). Pii: e1902. doi: 10.21769/BioProtoc.1902.
 
