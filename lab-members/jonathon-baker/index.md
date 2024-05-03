@@ -6,8 +6,7 @@
 **Principal Investigator**  
 **Assistant Professor**  
 [bakerjo@ohsu.edu](mailto:bakerjo@ohsu.edu)  
-
-<a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Jonathon-Baker-Web-CV.pdf">Curriculum Vitae (PDF)</a>  
+ 
 
 <a href="https://www.linkedin.com/in/jonathon-l-baker-ph-d-a97b68b5"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"></a> <a href="https://www.instagram.com/jonbakerlab"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-instagram.svg" width="50" height="50"></a> <a href="https://www.github.com/jonbakerlab"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-github.svg" width="50" height="50"></a> <a href="https://www.twitter.com/jonbakerlab"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/square-x-twitter.svg" width="50" height="50"></a> <a href="https://www.researchgate.net/profile/Jonathon-Baker"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/researchgate.svg" width="50" height="50"></a> <a href="https://orcid.org/0000-0001-5378-322X"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50"></a> <a href="https://scholar.google.com/citations?user=MDU_zwkAAAAJ&hl=en&oi=ao"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google-scholar.svg" width="50" height="50"></a> 
 
