@@ -12,5 +12,5 @@
   {% capture markdown_content %}
     {% include homepage.md %}
   {% endcapture %}
-  {{ markdown_content | markdownify }}
+  {{ markdown_content | remove_first: '---' | markdownify }}
 </article>
