@@ -8,5 +8,9 @@
     </li>
     {% endfor %}
   </ul> -->
-  {%include homepage.md%}
+  
+  {% capture markdown_content %}
+    {% include homepage.md %}
+  {% endcapture %}
+  {{ markdown_content | markdownify }}
 </article>
