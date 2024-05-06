@@ -11,7 +11,7 @@ We study how the oral microbiome impacts human health.
 
 ## The oral microbiome
 
-The oral microbiome is the collection of microorganisms that live in the human oral cavity, and includes bacteria, viruses, archaea, and microeukaryotes such as fungi.  These microbes have a major impact on human health, with extremely prevalent and costly oral diseases such as dental caries, periodontal disease, and oral cancers being caused mainly by the bacteria and viruses present in the mouth. 
+The oral microbiome is the collection of microorganisms that live in the human oral cavity, and includes bacteria, viruses, archaea, and microeukaryotes such as fungi.  These microbes have a major impact on human health, with extremely prevalent and costly oral diseases such as dental caries, periodontal disease, and oral cancers being caused mainly by the bacteria and viruses present in the mouth. In addition to oral diseases, there are increasing lines of evidence linking the oral microbiota to a myriad of extra-oral and systemic diseases, such obesity, diabetes, cardiovascular disease, inflammatory bowel disease, nonalcoholic fatty liver disease, rheumatoid arthritis, colorectal cancers, and Alzheimer’s Disease. 
 
 <img src="/assets/images/homepage-general/graphical-abstract.jpg" width= 50% height=auto style="display: inline; margin: auto;" />
 
