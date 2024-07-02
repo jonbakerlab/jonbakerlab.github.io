@@ -17,5 +17,23 @@ layout: page
 **[Jonah Tang](./jonah-tang/index.md)**  
 **Research Assistant**  
  
+<br/><br/>
 
+**[Mingzhe Guo, Ph.D.](./mingzhe-guo/index.md)**  
+**Postdoctoral Research Associate**
+
+<br/><br/>
+
+**[Samantha Williams](./samantha-williams/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**  
+
+<br/><br/>
+
+**[Katie Crofton](./katie-crofton/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+**[Saarin Rao](./saarin-rao/index.md)**  
+**NIH WINDOWS Scholar**
 
