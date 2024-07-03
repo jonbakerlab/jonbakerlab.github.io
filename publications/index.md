@@ -6,14 +6,15 @@ layout: page
 
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
+<sup>#</sup>37.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript in submission.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
 
-<sup>#</sup>36.  Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., **Baker, J.L.**, Varble, A., Nizet, V., Veening, J.W.  An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies.  [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2024.02.22.581527v1) 
+<sup>#</sup>36. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation. [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2023.12.18.572173v1)
 
-<sup>#</sup>35. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation. [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2023.12.18.572173v1)
+<sup>#</sup>35.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
 
-<sup>#</sup>34.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
+34\.  Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., **Baker, J.L.**, Varble, A., Nizet, V., Veening, J.W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/bjanes-et-al-2024.pdf">An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies.</a> **mBio** 2024 July 2; doi: 10.1128/mbio.00840-24
 
-33\.  Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., **Baker, J.L.**, Edlund, A., Petersen, F.C.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s41522-024-00507-7.pdf">Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome</a> **npj Biofilms and Microbiomes.** 2024 April 2; 10:37; doi:10.1038/s41522-024-00507-7 
+33\.  Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., **Baker, J.L.**, Edlund, A., Petersen, F.C.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s41522-024-00507-7.pdf">Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome.</a> **npj Biofilms and Microbiomes.** 2024 April 2; 10:37; doi:10.1038/s41522-024-00507-7 
 
 32\.  **Baker, J.L.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/2023-12-14-OHSU-SODA_Anthology_Baker.pdf">The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease.</a>  **OHSU School of Dentistry Anthology.** 2023 December 19; 1(1):3-11;doi:10.6083/bpxhc42395
 
@@ -24,7 +25,7 @@ layout: page
 
 \*29.  **Baker, J.L.** <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/msystems.00491-22.pdf">Using nanopore sequencing to obtain complete genomes from saliva samples.</a> **mSystems.**. 2022 Aug 22:e0049122. doi: 10.1128/msystems.00491-22. 
 
-28\.  **Baker, J.L.,** Tang, X., LaBonte, S., Uranga, C., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/jb.00042-22.pdf">*mucG,* *mucH,* and *mucI* modulate production of mutanocyclin and reutericyclins in *Streptococcus mutans* B04Sm5.</a> **Journal of Bacteriology.**  2022 April 11; doi: 10.1128/jb.00042-22
+28\.  **Baker, J.L.,** Tang, X., **LaBonte, S.**, Uranga, C., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/jb.00042-22.pdf">*mucG,* *mucH,* and *mucI* modulate production of mutanocyclin and reutericyclins in *Streptococcus mutans* B04Sm5.</a> **Journal of Bacteriology.**  2022 April 11; doi: 10.1128/jb.00042-22
 
 27\.  **Baker, J.L.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/mra.00023-22.pdf">Complete genome sequence of Candidatus Nanosynbacter strain HMT-348\_TM7c-JB, a member of *Saccharibacteria* Clade G1.</a> **Microbiology Resource Announcements.**  2022 April 11; doi: 10.1128/mra.00023-22
 
@@ -50,7 +51,7 @@ layout: page
 
 16\.  **Baker, J.L.,** Saputo, S., Faustoferri, R., Quivey Jr., R.G.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/MOM-baker2020.pdf">*Streptococcus mutans* SpxA2 relays the signal of cell envelope stress from LiaR to effectors that maintain cell wall and membrane homeostasis.</a> **Molecular Oral Microbiology.** 2020 June; 35(3): 118-128; doi:10.1111/omi.12282
 
-\*15.  Tang, X., Kudo, Y., **Baker, J.L.,** LaBonte, S., Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf">Cariogenic *Streptococcus mutans* produces tetramic acid strain-specific antibiotics that impair commensal colonization.</a>  **ACS Infectious Diseases.** 2020 April; 6(4):563-571; doi:10.1021/acsinfecdis.9b00365
+\*15.  Tang, X., Kudo, Y., **Baker, J.L., LaBonte, S.**, Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A. <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf">Cariogenic *Streptococcus mutans* produces tetramic acid strain-specific antibiotics that impair commensal colonization.</a>  **ACS Infectious Diseases.** 2020 April; 6(4):563-571; doi:10.1021/acsinfecdis.9b00365
 
 * [Subject of spotlight article in Chemical & Engineering News](https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01)
 
