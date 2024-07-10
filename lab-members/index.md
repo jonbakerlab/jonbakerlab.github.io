@@ -26,6 +26,8 @@ layout: page
 
 <br/><br/>
 
+<img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
 **[Samantha Williams](./samantha-williams/index.md)**  
 **NIH Dental & Oral Research Summer (DORS) Scholar**  
 
@@ -37,6 +39,8 @@ layout: page
 **NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
+
+<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Saarin Rao](./saarin-rao/index.md)**  
 **NIH WINDOWS Scholar**
