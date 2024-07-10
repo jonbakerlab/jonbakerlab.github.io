@@ -19,6 +19,8 @@ layout: page
  
 <br/><br/>
 
+<img src="/assets/images/homepage-general/mingzhe-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
 **[Mingzhe Guo, Ph.D.](./mingzhe-guo/index.md)**  
 **Postdoctoral Research Associate**
 
@@ -28,6 +30,8 @@ layout: page
 **NIH Dental & Oral Research Summer (DORS) Scholar**  
 
 <br/><br/>
+
+<img src="/assets/images/homepage-general/katie-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Katie Crofton](./katie-crofton/index.md)**  
 **NIH Dental & Oral Research Summer (DORS) Scholar**
