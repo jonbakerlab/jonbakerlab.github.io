@@ -1,3 +1,8 @@
+<img src="/assets/images/homepage-general/samantha-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/samantha-action.jpg" height=310 style="display: inline; margin: 10px;" />
+
+<br/>
+
+
 <span style="font-size:24px; font-weight: bold;">Samantha Williams</span>  
 **NIH Dental & Oral Research Summer (DORS) Scholar**  
 [willsama@ohsu.edu](mailto:willsama@ohsu.edu)  
