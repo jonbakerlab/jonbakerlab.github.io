@@ -1,3 +1,7 @@
+<img src="/assets/images/homepage-general/mingzhe-headshot.jpg" width="300" height="310" style="display: inline; margin: auto;" />
+
+<br/>
+
 <span style="font-size:24px; font-weight: bold;">Mingzhe Guo, Ph.D.</span>  
 **Postdoctoral Research Associate**  
 [guomi@ohsu.edu](mailto:guomi@ohsu.edu)  
