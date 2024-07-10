@@ -1,3 +1,8 @@
+<img src="/assets/images/homepage-general/katie-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/katie-action-cropped.jpg" height=310 style="display: inline; margin: 10px;" />
+
+<br/>
+
+
 <span style="font-size:24px; font-weight: bold;">Katie Crofton</span>  
 **NIH Dental & Oral Research Summer (DORS) Scholar**  
 [crofton@ohsu.edu](mailto:crofton@ohsu.edu)  
