@@ -1,4 +1,4 @@
-<img src="/assets/images/homepage-general/baker-labcoat.JPG" width="450" height="300" style="display: inline; margin: auto;" /> <img src="/assets/images/homepage-general/baker-labcoat2.jpg" height=300 style="display: inline; margin: 10px;" />
+<img src="/assets/images/homepage-general/baker-labcoat.JPG" width="450" height="300" style="display: inline; margin: auto;" /> 
 
 <br/>
 
