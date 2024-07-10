@@ -1,4 +1,4 @@
-<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/saarin-action.jpg" height=310 style="display: inline; margin: 10px;" />
+<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/saarin-action.jpg" width="336" height="310" style="display: inline; margin: 10px;" />
 
 <br/>
 
