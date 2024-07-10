@@ -1,4 +1,4 @@
-<img src="/assets/images/homepage-general/samantha-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/samantha-action.jpg" height=310 style="display: inline; margin: 10px;" />
+<img src="/assets/images/homepage-general/samantha-headshot.jpg" width="300" height="310" style="display: inline; margin: 10px;" />  <img src="/assets/images/homepage-general/samantha-action.jpg" width="369" height="310" style="display: inline; margin: 10px;" />
 
 <br/>
 
