@@ -1,4 +1,5 @@
-<img src="/assets/images/homepage-general/jonah2.jpg" width="300" height="310" style="display: inline; margin: auto;" />
+<img src="/assets/images/homepage-general/jonah2.jpg" width="300" height="310" style="display: inline; margin: auto;" /> <img src="/assets/images/homepage-general/jonah-action.jpg" width="328" height="310" style="display: inline; margin: 10px;" />
+
 
 <br/>
 
