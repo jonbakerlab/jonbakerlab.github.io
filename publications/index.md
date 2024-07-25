@@ -8,9 +8,9 @@ layout: page
 
 <sup>#</sup>37.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript in submission.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
 
-<sup>#</sup>36. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation. [Preprint available on bioRxiv.](https://www.biorxiv.org/content/10.1101/2023.12.18.572173v1)
+<sup>#</sup>36.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **In press, mSystems**
 
-<sup>#</sup>35.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  iYH543, a genome-scale model of a *Streptococcus pyogenes* serotype M1 strain.  **Manuscript in submission.** Preprint available upon request.
+35\. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s40168-024-01854-5.pdf">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.</a> **Microbiome** 2024 July 20; doi: 10.1186/s40168-024-01854-5
 
 34\.  Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., **Baker, J.L.**, Varble, A., Nizet, V., Veening, J.W.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/bjanes-et-al-2024.pdf">An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies.</a> **mBio** 2024 July 2; doi: 10.1128/mbio.00840-24
 
