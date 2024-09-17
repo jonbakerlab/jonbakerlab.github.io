@@ -26,6 +26,33 @@ layout: page
 
 <br/><br/>
 
+<img src="/assets/images/homepage-general/matthew-barbisan.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Matthew Barbisan](./matthew-barbisan/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
+
+### On their way
+
+<img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Felipe Fabrício Farias da Silva, D.D.S., M.Sc.](./felipe-silva/index.md)**  
+**CAPES Visiting Scholar**
+
+<br/><br/>
+
+### Alumni
+
+<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+
+**[Saarin Rao](./saarin-rao/index.md)**  
+**NIH WINDOWS Scholar**
+
+<br/><br/>
+
 <img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Samantha Williams](./samantha-williams/index.md)**  
@@ -39,20 +66,3 @@ layout: page
 **NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
-
-### On their way
-
-<img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
-
-**[Felipe Fabrício Farias da Silva, D.D.S., M.Sc.](./felipe-silva/index.md)**  
-**CAPES Visiting Scholar**
-
-
-### Alumni
-
-<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
-
-
-**[Saarin Rao](./saarin-rao/index.md)**  
-**NIH WINDOWS Scholar**
-
