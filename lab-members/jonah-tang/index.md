@@ -7,4 +7,4 @@
 **Research Assistant**  
 [tangjon@ohsu.edu](mailto:tangjon@ohsu.edu)  
 
-Jonah Tang joined The Baker Lab in 2023 after completing a BS in Computer Science at Oregon State University and a BS in Cell & Molecular Biology at Seattle University.  Jonah plans to persue a graduate degree in bioinformatics in the near future.
+Jonah is a research assistant in the Baker Lab at Oregon Health & Science University’s School of Dentistry, where he has worked on Dr. Baker’s project to investigate the impact of unsaturated fatty acids on the virulence of streptococci. Alongside the fatty acid project, he has also been working on a bioinformatic study into the salivary DNA virome that is built off of Dr. Baker’s previous metagenomic work. With a background in biology and computer science, he is looking to pursue a graduate degree in bioinformatics in the future. 
