@@ -8,7 +8,7 @@ layout: page
 
 <sup>#</sup>37.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript in submission.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
 
-36.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/hirose-et-al-2024-a-genome-scale-metabolic-model-of-a-globally-disseminated-hyperinvasive-m1-strain-of-streptococcus.pdf">A genome-scale metabolic model of a globally disseminated
+36\.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/hirose-et-al-2024-a-genome-scale-metabolic-model-of-a-globally-disseminated-hyperinvasive-m1-strain-of-streptococcus.pdf">A genome-scale metabolic model of a globally disseminated
 hyperinvasive M1 strain of Streptococcus pyogenes.</a>  **mSystems** 2024 August 19; doi: 10.1128/msystems.00736-24
 
 35\. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s40168-024-01854-5.pdf">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.</a> **Microbiome** 2024 July 20; doi: 10.1186/s40168-024-01854-5
