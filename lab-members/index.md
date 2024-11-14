@@ -33,9 +33,6 @@ layout: page
 
 <br/><br/>
 
-
-### On their way
-
 <img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Felipe Fabrício Farias da Silva, D.D.S., M.Sc.](./felipe-silva/index.md)**  
