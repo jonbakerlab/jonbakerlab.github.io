@@ -40,6 +40,13 @@ layout: page
 
 <br/><br/>
 
+<img src="/assets/images/homepage-general/sanjiv.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Sanjiv Chopra, BChD](./sanjiv-chopra/index.md)**  
+**Graduate Student**
+
+<br/><br/>
+
 ### Alumni
 
 <img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
