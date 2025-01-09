@@ -26,7 +26,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:bakerjo@ohsu.edu"}
   - {title: Github, icon: github, url: "https://github.com/jonbakerlab"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/jonbakerlab"}
-  - {title: BlueSky, icon: bluesky, url: "https://bsky.app/profile/jonbakerlab.bsky.social"}
+  - {title: BlueSky, icon: square-bluesky, url: "https://bsky.app/profile/jonbakerlab.bsky.social"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
