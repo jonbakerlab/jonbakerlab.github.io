@@ -9,13 +9,6 @@ layout: page
 **[Jonathon L. Baker, Ph.D.](./jonathon-baker/index.md)**  
 **Principal Investigator**  
 **Assistant Professor** 
-
-<br/><br/>
-
-<img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" style="display: inline; margin: auto;" />  
-
-**[Jonah Tang](./jonah-tang/index.md)**  
-**Research Assistant**  
  
 <br/><br/>
 
@@ -33,6 +26,24 @@ layout: page
 
 <br/><br/>
 
+<img src="/assets/images/homepage-general/molly-headshot-crop.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Molly Burnside](./molly-burnside/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
+## Alumni 
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" style="display: inline; margin: auto;" />  
+
+**[Jonah Tang](./jonah-tang/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
 <img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Felipe Fabrício Farias da Silva, D.D.S., M.Sc.](./felipe-silva/index.md)**  
@@ -46,9 +57,6 @@ layout: page
 **ANII Visiting Scholar**
 
 <br/><br/>
-
-
-### Alumni
 
 <img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
