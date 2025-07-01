@@ -6,7 +6,15 @@ layout: page
 
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
-<sup>#</sup>37.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript in submission.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
+#41.  **Baker, J.L.**  From bacterial genetics to genomics.  In Lamont, R., Belibasakis, G. (ed), **Oral Microbiology & Immunology, 4th Edition**  ASM Press. **Textbook in press.**
+
+#40.  de Bakker, V., Liu, X., **Tang, J., Barbisan, M., Baker, J.L.**, Veening, J.W.  Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae.  **Manuscript in review.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.13.659575v1)
+
+<sup>#</sup>39.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript accepted at mSphere.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
+
+38\.  **Staton, D.V., Tang, J., Barbisan, M.**, Nussbaum, J., **Baker, J.L.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/beetroot-paper.pdf">The Effect of Beta vulgaris on an in vitro oral microbiome of electronic cigarette users.</a>  Journal of Oral Microbiology. 2025 May 25; doi: 10.1080/20002297.2025.2509669
+
+37\.  **Burnside, M., Tang, J., Baker, J.L.**, Merritt, J., Kreth, J.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/molly-fish-mom.pdf">Shining Light on Oral Biofilm Fluorescent in situ Hybridization (FISH): Probing the accuracy of in situ biogeography studies.</a> **Molecular Oral Microbiology**  2025 April 11; doi: doi.org/10.1111/omi.12494
 
 36\.  Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., **Baker, J.L.,** Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/hirose-et-al-2024-a-genome-scale-metabolic-model-of-a-globally-disseminated-hyperinvasive-m1-strain-of-streptococcus.pdf">A genome-scale metabolic model of a globally disseminated
 hyperinvasive M1 strain of Streptococcus pyogenes.</a>  **mSystems** 2024 August 19; doi: 10.1128/msystems.00736-24
