@@ -6,4 +6,4 @@
 **NIH WINDOWS Scholar**  
 [raosaa@ohsu.edu](mailto:raosaa@ohsu.edu)  
 
-Saarin Rao is from San Diego, and is currently a senior at Scripps Ranch High School. He plans on doing pre med in college while majoring in statistics and data science. In his free time, Saarin enjoys spending time with friends, watching sports, and staying active.
+Saarin Rao is from San Diego, and is currently a first year undergraduate at Santa Clara University majoring in Statistics and Data Science. Saarin did an internship in the Baker Lab in Summer 2024 through the NIH Sponsored WINDOWS program.
