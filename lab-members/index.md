@@ -37,6 +37,20 @@ layout: page
 
 <br/><br/>
 
+<img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Sadie Drucker](./sadie-drucker/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Michelle Lee](./michelle-lee/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
 <img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" style="display: inline; margin: auto;" />  
 
 **[Jonah Tang](./jonah-tang/index.md)**  
