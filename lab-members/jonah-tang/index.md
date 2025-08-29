@@ -7,4 +7,4 @@
 **Research Assistant**  
 
 
-Jonah Tang is currently a graduate student at the University of Oregon. Jonah was a Research Assistant in the Baker Lab from 2023-2025.
+Jonah Tang is currently a graduate student at the University of Oregon.  Jonah was a Research Assistant in the Baker Lab from 2023-2025.
