@@ -6,11 +6,11 @@ layout: page
 
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
-#41.  **Baker, J.L.**  From bacterial genetics to genomics.  In Lamont, R., Belibasakis, G. (ed), **Oral Microbiology & Immunology, 4th Edition**  ASM Press. **Textbook in press.**
+<sup>#</sup>41.  **Baker, J.L.**  From bacterial genetics to genomics.  In Lamont, R., Belibasakis, G. (ed), **Oral Microbiology & Immunology, 4th Edition**  ASM Press. **Textbook in press.**
 
-#40.  de Bakker, V., Liu, X., **Tang, J., Barbisan, M., Baker, J.L.**, Veening, J.W.  Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae.  **Manuscript in review.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2025.06.13.659575v1)
+40\.  de Bakker, V., Liu, X., **Tang, J., Barbisan, M., Baker, J.L.**, Veening, J.W. [Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae.](https://www.nature.com/articles/s41467-025-66611-0) **Nature Communications.** 2025 Nov 21; doi: 10.1038/s41467-025-66611-0
 
-<sup>#</sup>39.  **Tang, J., Baker, J.L.** The salivary virome during childhood dental caries. **Manuscript accepted at mSphere.** [Preprint available on bioRxiv](https://www.biorxiv.org/content/10.1101/2024.05.22.595360v1)
+<sup>#</sup>39.  **Tang, J., Baker, J.L.** [The salivary virome during childhood dental caries.](https://journals.asm.org/doi/10.1128/msphere.00198-25) **mSphere.** 2025 July 28; doi: 10.1128/msphere.00198-25
 
 38\.  **Staton, D.V., Tang, J., Barbisan, M.**, Nussbaum, J., **Baker, J.L.**  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/beetroot-paper.pdf">The Effect of Beta vulgaris on an in vitro oral microbiome of electronic cigarette users.</a>  Journal of Oral Microbiology. 2025 May 25; doi: 10.1080/20002297.2025.2509669
 
