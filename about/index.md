@@ -9,7 +9,7 @@ layout: page
 
 <br/>
 
-<img src="/assets/images/projects-fatty-acids/RS-Fig-1.jpg" width="300" height=auto style="display: inline; margin: auto;" />  
+<img src="/assets/images/projects-fatty-acids/significance.jpg" width="300" height=auto style="display: inline; margin: auto;" />  
 
 ### [Exploring fatty acid metabolism in _Streptococcus_ to guide therapeutic development](./lipidomics-project/index.md)
 The bacterial genus _Streptococcus_ contains some of the most important pathogens and commensals of the human microbiome, with multiple species causing significant human morbidity and mortality. This project is revealing how three important _Streptococcus_ pathogens utilize and modify host fatty acids and discover how this process integrates with quorum-sensing and virulence regulation. By defining the biochemical and signaling pathways connecting fatty acid utilization to pathogenic behavior, this work will uncover new molecular targets for prebiotic strategies that disarm pathogens.
