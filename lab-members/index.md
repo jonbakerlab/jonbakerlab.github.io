@@ -28,7 +28,6 @@ layout: page
 }
 </style>
 
-# Lab Members
 
 <div class="member-grid">
 
