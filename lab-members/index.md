@@ -4,135 +4,92 @@ permalink: "/lab-members/"
 layout: page
 ---
 
-<style>
-.member-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Change to 3 for 3 columns */
-  gap: 40px;
-  align-items: start;
-  margin-top: 30px;
-}
+<img src="/assets/images/homepage-general/headshot-cropped.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
-.member {
-  text-align: center;
-  max-width: 300px;
-  margin-left: auto;
-  margin-right: auto;
-}
+**[Jonathon L. Baker, Ph.D.](./jonathon-baker/index.md)**  
+**Principal Investigator**  
+**Assistant Professor** 
+ 
+<br/><br/>
 
-.member img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 4px;
-}
-</style>
+<img src="/assets/images/homepage-general/mingzhe-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Mingzhe Guo, Ph.D.](./mingzhe-guo/index.md)**  
+**Postdoctoral Research Associate**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/matthew-barbisan.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Matthew Barbisan](./matthew-barbisan/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/molly-headshot-crop.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Molly Burnside](./molly-burnside/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
+## Alumni 
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Sadie Drucker](./sadie-drucker/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Michelle Lee](./michelle-lee/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" style="display: inline; margin: auto;" />  
+
+**[Jonah Tang](./jonah-tang/index.md)**  
+**Research Assistant**  
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Felipe Fabrício Farias da Silva, D.D.S., M.Sc.](./felipe-silva/index.md)**  
+**CAPES Visiting Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/marisabel.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+**[Marisabel Charlo Cabrera](./marisabel-charlo/index.md)**  
+**ANII Visiting Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 
-<div class="member-grid">
+**[Saarin Rao](./saarin-rao/index.md)**  
+**NIH WINDOWS Scholar**
 
-<div class="member">
-  <img src="/assets/images/homepage-general/headshot-cropped.jpg" width="200" height="205" />
-  <p>
-    <a href="./jonathon-baker/index.md"><strong>Jonathon L. Baker, Ph.D.</strong></a><br/>
-    Principal Investigator<br/>
-    Assistant Professor
-  </p>
-</div>
+<br/><br/>
 
-<div class="member">
-  <img src="/assets/images/homepage-general/mingzhe-headshot.jpg" width="200" height="205" />
-  <p>
-    <a href="./mingzhe-guo/index.md"><strong>Mingzhe Guo, Ph.D.</strong></a><br/>
-    Postdoctoral Research Associate
-  </p>
-</div>
+<img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
-<div class="member">
-  <img src="/assets/images/homepage-general/matthew-barbisan.jpg" width="200" height="205" />
-  <p>
-    <a href="./matthew-barbisan/index.md"><strong>Matthew Barbisan</strong></a><br/>
-    Research Assistant
-  </p>
-</div>
+**[Samantha Williams](./samantha-williams/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**  
 
-<div class="member">
-  <img src="/assets/images/homepage-general/molly-headshot-crop.jpg" width="200" height="205" />
-  <p>
-    <a href="./molly-burnside/index.md"><strong>Molly Burnside</strong></a><br/>
-    Research Assistant
-  </p>
-</div>
+<br/><br/>
 
-</div> <!-- end grid -->
+<img src="/assets/images/homepage-general/katie-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
+**[Katie Crofton](./katie-crofton/index.md)**  
+**NIH Dental & Oral Research Summer (DORS) Scholar**
 
-# Alumni
-
-<div class="member-grid">
-
-<div class="member">
-  <img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" />
-  <p>
-    <a href="./sadie-drucker/index.md"><strong>Sadie Drucker</strong></a><br/>
-    NIH Dental & Oral Research Summer (DORS) Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" />
-  <p>
-    <a href="./michelle-lee/index.md"><strong>Michelle Lee</strong></a><br/>
-    NIH Dental & Oral Research Summer (DORS) Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" />
-  <p>
-    <a href="./jonah-tang/index.md"><strong>Jonah Tang</strong></a><br/>
-    Research Assistant
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" />
-  <p>
-    <a href="./felipe-silva/index.md"><strong>Felipe Fabrício Farias da Silva, D.D.S., M.Sc.</strong></a><br/>
-    CAPES Visiting Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/marisabel.jpg" width="200" height="205" />
-  <p>
-    <a href="./marisabel-charlo/index.md"><strong>Marisabel Charlo Cabrera</strong></a><br/>
-    ANII Visiting Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/saarin-headshot.jpg" width="200" height="205" />
-  <p>
-    <a href="./saarin-rao/index.md"><strong>Saarin Rao</strong></a><br/>
-    NIH WINDOWS Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" />
-  <p>
-    <a href="./samantha-williams/index.md"><strong>Samantha Williams</strong></a><br/>
-    NIH Dental & Oral Research Summer (DORS) Scholar
-  </p>
-</div>
-
-<div class="member">
-  <img src="/assets/images/homepage-general/katie-headshot.jpg" width="200" height="205" />
-  <p>
-    <a href="./katie-crofton/index.md"><strong>Katie Crofton</strong></a><br/>
-    NIH Dental & Oral Research Summer (DORS) Scholar
-  </p>
-</div>
-
-</div> <!-- end grid -->
+<br/><br/>
