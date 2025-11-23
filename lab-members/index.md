@@ -34,7 +34,7 @@ layout: page
 <div class="member">
   <img src="/assets/images/homepage-general/headshot-cropped.jpg" width="200" height="205" />
   <p>
-    <a href="./jonathon-baker/index.md"><strong>Jonathon L. Baker, Ph.D.</strong></a><br/>
+    <a href="./jonathon-baker/"><strong>Jonathon L. Baker, Ph.D.</strong></a><br/>
     Principal Investigator<br/>
     Assistant Professor
   </p>
