@@ -1,3 +1,5 @@
+<div markdown="1">
+
 <img src="/assets/images/homepage-general/felipe2.jpg" width="300" height="310" style="display: inline; margin: 10px;" />
 
 <br/>
@@ -8,3 +10,4 @@
 
 Felipe is currently a Ph.D. student at the University of Campinas Dental School in Piracicaba, Brazil. Felipe was a Visitng Scholar in the Baker Lab in 2024-2025 sponsored by a Brazilian CAPES Scholarship.
  
+</div>
