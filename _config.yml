@@ -7,6 +7,37 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+diff --git a/_config.yaml b/_config.yaml
+index abc123..def456 100644
+--- a/_config.yaml
++++ b/_config.yaml
+@@ -1,10 +1,36 @@
+-# Existing config entries...
++title: The Baker Lab
++tagline: Oral microbiome · Virome · Long-read & multi-omics
++description: >
++  We study how the oral microbiome impacts human health using sequencing,
++  mass spectrometry, bioinformatics, and molecular biology.
++# Set this to your live site URL so links and previews work correctly
++# (required by the LWT template for proper behavior).
++# Example for GitHub Pages on user/org site:
++#   url: "https://jonbakerlab.github.io"
++url: "https://jonbakerlab.github.io"
++
++# Social / Open Graph
++social:
++  twitter: "jonbakerlab"
++  github: "jonbakerlab"
++  # default share image used for link previews (replace with your own asset)
++  image: "/images/share.jpg"
++
++# Theme / appearance tweaks (safe to keep minimal)
++permalink: pretty
++markdown: kramdown
++
++# Keep the rest of your existing settings below
++# ...
+
 # Layout
 
 show_excerpts: false        # show article excerpts on the home page
