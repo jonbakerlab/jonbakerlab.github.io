@@ -1,16 +1,84 @@
-{%- assign posts = paginator.posts | default: site.posts -%}
-{% for post in posts %}
-  <article>
-    {% include meta.html post=post preview=true %}
-    {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
-{% endfor %}
+<!-- =========================
+     HERO
+     ========================= -->
+<section class="hero" style="padding: 2rem 0;">
+  <!-- Optional banner image -->
+  <!-- <img src="/images/hero.jpg" alt="The Baker Lab" style="width:100%; height:auto; border-radius:8px; margin-bottom:1rem;" /> -->
 
-{% if paginator.total_pages > 1 %}
-  <footer>
-    {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« newer posts</a>{% else %}<span></span>{% endif %}
-    <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older posts »</a>{% else %}<span></span>{% endif %}
-  </footer>
-{% endif %}
+  <h1 style="margin-top:0;">Microbiology & Bioinformatics to Understand the Oral Microbiome</h1>
+
+  <p style="max-width: 64ch;">
+    We investigate how bacteria and viruses in the mouth shape human health—combining
+    long‑read sequencing, mass spectrometry, and computational biology to discover
+    new species, pathways, and mechanisms of disease.
+  </p>
+
+  <div style="display:flex; gap:.75rem; flex-wrap:wrap; margin: 1rem 0 0;">
+    <a class="button" href="/publications/" style="background:#0b6; color:#fff; padding:.55rem .9rem; border-radius:6px; text-decoration:none;">View Publications</a>
+    <a class="button button--secondary" href="/contact/" style="background:#eef; color:#134; padding:.55rem .9rem; border-radius:6px; text-decoration:none;">Contact</a>
+  </div>
+</section>
+
+<hr />
+
+<!-- =========================
+     WHAT WE DO
+     ========================= -->
+<section aria-labelledby="what-we-do" style="padding: 1rem 0;">
+  <h2 id="what-we-do">What we do</h2>
+  <ul>
+    <li><strong>Oral microbiome ecology</strong> — community structure, function, and dynamics</li>
+    <li><strong>Virome–bacteriome interactions</strong> — phage and viral drivers of dysbiosis</li>
+    <li><strong>Long‑read & multi‑omics</strong> — nanopore, RNA, and metabolomics pipelines</li>
+  </ul>
+</section>
+
+<!-- =========================
+     HIGHLIGHTS
+     ========================= -->
+<section aria-labelledby="highlights" style="padding: 1rem 0;">
+  <h2 id="highlights">Highlights</h2>
+  <ul>
+    <li>Discovered new bacterial species and biosynthetic pathways with implications for oral and systemic disease.</li>
+    <li>Pioneered long‑read approaches for saliva and oral bacterial RNA.</li>
+  </ul>
+  <p>If you’re interested in our research—or joining the team—please <a href="/contact/">contact us</a>.</p>
+</section>
+
+<hr />
+
+<!-- =========================
+     LATEST UPDATES (existing posts loop)
+     ========================= -->
+<section aria-labelledby="latest" style="padding: 1rem 0;">
+  <h2 id="latest">Latest updates</h2>
+
+  {%- assign posts = paginator.posts | default: site.posts -%}
+  {% for post in posts %}
+    <article style="margin: 1.25rem 0;">
+      {% include meta.html post=post preview=true %}
+      {{ post.excerpt }}
+      <div class="more">
+        <a href="{{ post.url | relative_url }}">read more</a>
+      </div>
+    </article>
+  {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+    <footer style="display:flex; justify-content:space-between; align-items:center; gap:1rem; margin-top:1rem;">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}">« newer posts</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+
+      <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}">older posts »</a>
+      {% else %}
+        <span></span>
+      {% endif %}
+    </footer>
+  {% endif %}
+</section>
