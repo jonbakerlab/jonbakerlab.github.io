@@ -1,69 +1,63 @@
+# =========================
+# Site identity (keep at top)
+# =========================
 title: "The Baker Lab"
-logo: ./assets/images/OHSU-RGB-4C-REV-small.png
+tagline: "Oral microbiome · Virome · Long-read & multi-omics"
+description: >
+  We study how the oral microbiome impacts human health using sequencing,
+  mass spectrometry, bioinformatics, and molecular biology.
+url: "https://jonbakerlab.github.io"   # no trailing slash
+
+logo: "./assets/images/OHSU-RGB-4C-REV-small.png"
 author: "Jonathon L. Baker, Ph.D."
-description: "Microbiology and Bioinformatics to discover how the bacteria that live in our mouth impact human health and disease"
-permalink: /:title/
 lang: "en"
+permalink: "/:title/"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-diff --git a/_config.yaml b/_config.yaml
-index abc123..def456 100644
---- a/_config.yaml
-+++ b/_config.yaml
-@@ -1,10 +1,36 @@
--# Existing config entries...
-+title: The Baker Lab
-+tagline: Oral microbiome · Virome · Long-read & multi-omics
-+description: >
-+  We study how the oral microbiome impacts human health using sequencing,
-+  mass spectrometry, bioinformatics, and molecular biology.
-+# Set this to your live site URL so links and previews work correctly
-+# (required by the LWT template for proper behavior).
-+# Example for GitHub Pages on user/org site:
-+#   url: "https://jonbakerlab.github.io"
-+url: "https://jonbakerlab.github.io"
-+
-+# Social / Open Graph
-+social:
-+  twitter: "jonbakerlab"
-+  github: "jonbakerlab"
-+  # default share image used for link previews (replace with your own asset)
-+  image: "/images/share.jpg"
-+
-+# Theme / appearance tweaks (safe to keep minimal)
-+permalink: pretty
-+markdown: kramdown
-+
-+# Keep the rest of your existing settings below
-+# ...
+# Social / Open Graph
+social:
+  twitter: "jonbakerlab"
+  github: "jonbakerlab"
+  image: "/images/share.jpg"   # upload a matching image file to /images
 
-# Layout
+# Markdown / rendering
+markdown: kramdown
 
+# =========================
+# Layout / theme options
+# =========================
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+show_sidebar: false         # show a sidebar instead of the usual header
+minimal: true               # use a dark header
 
-# Menu
+# =========================
+# Navigation
+# =========================
+# accepts {file, title, url, icon, sidebaricon}
+navigation:
+  - { file: "index.html" }
+  - { file: "./about/index.md",         title: "Our Research",  url: "https://jonbakerlab.github.io/about/" }
+  - { file: "./lab-members/index.md",   title: "Our Team",      url: "https://jonbakerlab.github.io/lab-members/" }
+  - { file: "./publications/index.md",  title: "Publications",  url: "https://jonbakerlab.github.io/publications/" }
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "./about/index.md",title: "Our Research", url: "https://jonbakerlab.github.io/about/"}
-  - {file: "./lab-members/index.md", title: "Our Team", url: "https://jonbakerlab.github.io/lab-members/"}
-  - {file: "./publications/index.md", title: "Publications", url: "https://jonbakerlab.github.io/publications/"}
+# Footer social links (Font Awesome icon names)
+external:
+  - { title: "Mail",     icon: envelope,          url: "mailto:bakerjo@ohsu.edu" }
+  - { title: "GitHub",   icon: github,            url: "https://github.com/jonbakerlab" }
+  - { title: "Twitter",  icon: twitter,           url: "https://twitter.com/jonbakerlab" }
+  - { title: "BlueSky",  icon: square-bluesky,    url: "https://bsky.app/profile/jonbakerlab.bsky.social" }
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bakerjo@ohsu.edu"}
-  - {title: Github, icon: github, url: "https://github.com/jonbakerlab"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/jonbakerlab"}
-  - {title: BlueSky, icon: square-bluesky, url: "https://bsky.app/profile/jonbakerlab.bsky.social"}
-
+# =========================
+# Comments (optional)
+# =========================
 comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+  # disqus_shortname: ""
+  # isso_domain: ""
 
+# =========================
+# Plugins (keep to those supported by GitHub Pages)
+# =========================
 plugins:
- - jekyll-feed
-
-url: https://jonbakerlab.github.io/
+  - jekyll-feed
