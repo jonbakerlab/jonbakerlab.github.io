@@ -1,7 +1,7 @@
 ---
 ---
 
-# Lab Website Template
+# Lab Website Templates
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
 Spend less time worrying about managing a website and citations, and more time running your lab.
