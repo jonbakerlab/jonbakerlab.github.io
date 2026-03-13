@@ -12,10 +12,13 @@ layout: publications
 
 <a id="10.1038/s41467-025-66611-0">&nbsp;</a>
 
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://www.nature.com/articles/s41467-025-66611-0" target="_new">Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae</a></span>
+<div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-025-66611-0"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41467-025-66611-0" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
-
-<span class="pub-title"><a href="https://www.nature.com/articles/s41467-025-66611-0" target="_new">Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae</a></span>
+</div>
+</div>
 
 <span class="pub-authors">de Bakker, V., Liu, X., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J., Barbisan, M., Baker, J.L.</span>, Veening, J.W.</span>
 
@@ -29,6 +32,7 @@ layout: publications
 </div>
 
 <span class="pub-journal"> 📚 <b>Nature Communications</b>, 2025 Nov 21 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Multi-omics+profiling+reveals+atypical+sugar+utilization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41467-025-66611-0" target="_blank">doi:10.1038/s41467-025-66611-0</a></span>
+
 </div>
 <a id="10.1128/msphere.00198-25">&nbsp;</a>
 <div class="pub">
