@@ -1,13 +1,18 @@
-.altmetric-embed,
-.__dimensions_badge_embed__ {
-  display: inline-block;
-  margin-right: 10px;
+.pub-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
   margin-bottom: 10px;
 }
 
+.altmetric-embed,
+.__dimensions_badge_embed__ {
+  flex-shrink: 0;
+  min-width: fit-content;
+}
+
 .pub-title {
-  display: inline-block;
-  vertical-align: top;
+  flex: 1;
 }
 
 .pub-title a {
