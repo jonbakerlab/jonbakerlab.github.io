@@ -450,6 +450,8 @@ layout: publications
 
 ---
 
+## 2019
+
 <a id="10.1073/pnas.1820594116">&nbsp;</a>
 
 <div class="pub-title-badges">
@@ -520,6 +522,8 @@ layout: publications
 
 ---
 
+## 2018
+
 <a id="10.1128/JB.00057-18">&nbsp;</a>
 
 <div class="pub-title-badges">
@@ -535,6 +539,8 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2018 May 24; 200(12) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=trehalose+TreR+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.00057-18" target="_blank">doi:10.1128/JB.00057-18</a></span>
 
 ---
+
+## 2017
 
 <a id="10.1016/j.tim.2016.12.012">&nbsp;</a>
 
@@ -568,6 +574,8 @@ layout: publications
 
 ---
 
+## 2016
+
 <a id="10.21769/BioProtoc.1902">&nbsp;</a>
 
 <div class="pub-title-badges">
@@ -599,7 +607,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004882" target="_blank">In de Bruijn, F. (ed)</a></span>
 
 ---
-
+## 2015
 ---
 
 <a id="10.1128/JB.00383-15">&nbsp;</a>
@@ -637,6 +645,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12150" target="_blank">doi:10.1111/omi.12150</a></span>
 
 ---
+## 2014
 
 <a id="10.1128/JB.02166-14">&nbsp;</a>
 
@@ -653,6 +662,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.02166-14" target="_blank">doi:10.1128/JB.02166-14</a></span>
 
 ---
+## 2013
 
 <a id="10.1016/j.jviromet.2013.11.009">&nbsp;</a>
 
@@ -684,7 +694,6 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>PLOS Pathogens</b>, 2013; 9(6):e1003481 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=SAMHD1+DNA+viruses" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1371/journal.ppat.1003481" target="_blank">doi:10.1371/journal.ppat.1003481</a></span>
 
-<p><i>*Publication of particular interest</i></p>
 
 * [Selected for PLoS Pathogens 10 Year Anniversary Collection](https://collections.plos.org/pathogens-10th-anniversary)
 
