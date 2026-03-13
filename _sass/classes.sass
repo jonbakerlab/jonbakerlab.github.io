@@ -3,17 +3,25 @@
 
 .pub-header
   display: flex
-  align-items: center
+  align-items: flex-start
   gap: 10px
   margin-bottom: 10px
+  flex-wrap: nowrap
 
 .altmetric-embed,
 .__dimensions_badge_embed__
-  display: inline-block
+  display: inline-flex !important
   flex-shrink: 0
+  align-items: flex-start
+  
+.altmetric-embed iframe,
+.__dimensions_badge_embed__ iframe
+  display: inline !important
 
 .pub-title
   flex: 1
+  display: flex
+  align-items: flex-start
 
 .pub-title a
   font-weight: bold
