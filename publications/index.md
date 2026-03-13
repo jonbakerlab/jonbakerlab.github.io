@@ -24,7 +24,7 @@ layout: publications
 
 <div class="pub-info">
 <div class="pub-featured-image">
-<a href="/images/pubs/baker-s-pneumoniae-2025.jpg"><img src="/images/pubs/baker-s-pneumoniae-2025.jpg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
+<a href="/assets/images/pubs/baker-s-pneumoniae-2025.jpg"><img src="/assets/images/pubs/baker-s-pneumoniae-2025.jpg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
 </div>
 <div class="pub-highlights">
 <span style="display: inline-block; padding-bottom: 5px;">- Multi-omics analysis reveals novel metabolic pathways in <i>Streptococcus pneumoniae</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identifies key regulators of membrane composition critical for pathogenesis.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Integrates genomics, transcriptomics, and proteomics to elucidate bacterial physiology.</span>
@@ -34,6 +34,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Nature Communications</b>, 2025 Nov 21 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Multi-omics+profiling+reveals+atypical+sugar+utilization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41467-025-66611-0" target="_blank">doi:10.1038/s41467-025-66611-0</a></span>
 
 </div>
+
 <a id="10.1128/msphere.00198-25">&nbsp;</a>
 <div class="pub">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msphere.00198-25"></div>
