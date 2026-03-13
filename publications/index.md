@@ -13,7 +13,7 @@ layout: publications
 <a id="10.1038/s41467-025-66611-0">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://www.nature.com/articles/s41467-025-66611-0" target="_new">Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1038/s41467-025-66611-0" target="_new">Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-025-66611-0"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41467-025-66611-0" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -38,7 +38,7 @@ layout: publications
 <a id="10.1128/msphere.00198-25">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://journals.asm.org/doi/10.1128/msphere.00198-25" target="_new">The salivary virome during childhood dental caries</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/msphere.00198-25" target="_new">The salivary virome during childhood dental caries</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msphere.00198-25"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msphere.00198-25" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -54,7 +54,7 @@ layout: publications
 <a id="10.1080/20002297.2025.2509669">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/beetroot-paper.pdf" target="_new">The Effect of Beta vulgaris on an in vitro oral microbiome of electronic cigarette users</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1080/20002297.2025.2509669" target="_new">The Effect of Beta vulgaris on an in vitro oral microbiome of electronic cigarette users</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1080/20002297.2025.2509669"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1080/20002297.2025.2509669" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -70,7 +70,7 @@ layout: publications
 <a id="10.1111/omi.12494">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/molly-fish-mom.pdf" target="_new">Shining Light on Oral Biofilm Fluorescent in situ Hybridization (FISH): Probing the accuracy of in situ biogeography studies</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1111/omi.12494" target="_new">Shining Light on Oral Biofilm Fluorescent in situ Hybridization (FISH): Probing the accuracy of in situ biogeography studies</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12494"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12494" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -86,7 +86,7 @@ layout: publications
 <a id="10.1128/msystems.00736-24">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/hirose-et-al-2024-a-genome-scale-metabolic-model-of-a-globally-disseminated-hyperinvasive-m1-strain-of-streptococcus.pdf" target="_new">A genome-scale metabolic model of a globally disseminated hyperinvasive M1 strain of Streptococcus pyogenes</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/msystems.00736-24" target="_new">A genome-scale metabolic model of a globally disseminated hyperinvasive M1 strain of Streptococcus pyogenes</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msystems.00736-24"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msystems.00736-24" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -102,7 +102,7 @@ layout: publications
 <a id="10.1186/s40168-024-01854-5">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s40168-024-01854-5.pdf" target="_new">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1186/s40168-024-01854-5" target="_new">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1186/s40168-024-01854-5"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1186/s40168-024-01854-5" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -118,7 +118,7 @@ layout: publications
 <a id="10.1128/mbio.00840-24">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/bjanes-et-al-2024.pdf" target="_new">An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/mbio.00840-24" target="_new">An efficient in vivo-inducible CRISPR interference system for group A Streptococcus genetic analysis and pathogenesis studies</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mbio.00840-24"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/mbio.00840-24" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -134,7 +134,7 @@ layout: publications
 <a id="10.1038/s41522-024-00507-7">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s41522-024-00507-7.pdf" target="_new">Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1038/s41522-024-00507-7" target="_new">Exploring ex vivo biofilm dynamics: consequences of low ampicillin concentrations on the human oral microbiome</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41522-024-00507-7"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41522-024-00507-7" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -150,7 +150,7 @@ layout: publications
 <a id="10.6083/bpxhc42395">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/2023-12-14-OHSU-SODA_Anthology_Baker.pdf" target="_new">The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease</a></span>
+<span class="pub-title"><a href="https://doi.org/10.6083/bpxhc42395" target="_new">The Baker Lab at the OHSU School of Dentistry: leveraging bioinformatics and molecular biology to discover how the bacteria that live in our mouth impact human health and disease</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.6083/bpxhc42395"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.6083/bpxhc42395" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -166,7 +166,7 @@ layout: publications
 <a id="10.1038/s41579-023-00963-6">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s41579-023-00963-6.pdf" target="_new">The oral microbiome: diversity, biogeography and human health</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1038/s41579-023-00963-6" target="_new">The oral microbiome: diversity, biogeography and human health</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41579-023-00963-6"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1038/s41579-023-00963-6" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -182,7 +182,7 @@ layout: publications
 <a id="10.1093/femsre/fuad051">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fuad051.pdf" target="_new">Illuminating the oral microbiome and its host interactions: recent advancements in omics and bioinformatics technologies in the context of oral microbiome research</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1093/femsre/fuad051" target="_new">Illuminating the oral microbiome and its host interactions: recent advancements in omics and bioinformatics technologies in the context of oral microbiome research</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/femsre/fuad051"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1093/femsre/fuad051" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -198,7 +198,7 @@ layout: publications
 <a id="10.1128/msystems.00491-22">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/msystems.00491-22.pdf" target="_new">Using nanopore sequencing to obtain complete genomes from saliva samples</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/msystems.00491-22" target="_new">Using nanopore sequencing to obtain complete genomes from saliva samples</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msystems.00491-22"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msystems.00491-22" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -216,7 +216,7 @@ layout: publications
 <a id="10.1128/jb.00042-22">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/jb.00042-22.pdf" target="_new"><i>mucG</i>, <i>mucH</i>, and <i>mucI</i> modulate production of mutanocyclin and reutericyclins in <i>Streptococcus mutans</i> B04Sm5</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/jb.00042-22" target="_new"><i>mucG</i>, <i>mucH</i>, and <i>mucI</i> modulate production of mutanocyclin and reutericyclins in <i>Streptococcus mutans</i> B04Sm5</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/jb.00042-22"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/jb.00042-22" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -232,7 +232,7 @@ layout: publications
 <a id="10.1128/mra.00023-22">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/mra.00023-22.pdf" target="_new">Complete genome sequence of Candidatus Nanosynbacter strain HMT-348_TM7c-JB, a member of <i>Saccharibacteria</i> Clade G1</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/mra.00023-22" target="_new">Complete genome sequence of Candidatus Nanosynbacter strain HMT-348_TM7c-JB, a member of <i>Saccharibacteria</i> Clade G1</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mra.00023-22"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/mra.00023-22" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -248,7 +248,7 @@ layout: publications
 <a id="10.1128/msystems.01272-21">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/msystems.01272-21.pdf" target="_new">Analysis of the <i>Streptococcus mutans</i> proteome during acid and oxidative stress reveals modules of co-expression and an expanded role for the TreR transcriptional regulator</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/msystems.01272-21" target="_new">Analysis of the <i>Streptococcus mutans</i> proteome during acid and oxidative stress reveals modules of co-expression and an expanded role for the TreR transcriptional regulator</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msystems.01272-21"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msystems.01272-21" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -266,7 +266,7 @@ layout: publications
 <a id="10.3389/froh.2021.796140">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/froh-02-796140.pdf" target="_new">Tetramic acids mutanocyclin and reutericyclin-A, produced by <i>Streptococcus mutans</i> strain B04Sm5, modulate the ecology of an in vitro oral biofilm</a></span>
+<span class="pub-title"><a href="https://doi.org/10.3389/froh.2021.796140" target="_new">Tetramic acids mutanocyclin and reutericyclin-A, produced by <i>Streptococcus mutans</i> strain B04Sm5, modulate the ecology of an in vitro oral biofilm</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/froh.2021.796140"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.3389/froh.2021.796140" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -282,7 +282,7 @@ layout: publications
 <a id="10.3390/ijms222112050">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/ijms-22-12050.pdf" target="_new">Multi-omics study of keystone bacterial species in a cystic fibrosis lung microbiome</a></span>
+<span class="pub-title"><a href="https://doi.org/10.3390/ijms222112050" target="_new">Multi-omics study of keystone bacterial species in a cystic fibrosis lung microbiome</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.3390/ijms222112050"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.3390/ijms222112050" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -298,7 +298,7 @@ layout: publications
 <a id="10.1128/mSphere.00530-21">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/mSphere.00530-21.pdf" target="_new">Complete genomes of clade G6 <i>Saccharibacteria</i> suggest a divergent ecological niche and lifestyle</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/mSphere.00530-21" target="_new">Complete genomes of clade G6 <i>Saccharibacteria</i> suggest a divergent ecological niche and lifestyle</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mSphere.00530-21"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/mSphere.00530-21" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -314,7 +314,7 @@ layout: publications
 <a id="10.1128/MRA.00517-21">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/MRA.00517-21.pdf" target="_new">A complete genome sequence of strain JB001, a member of <i>Saccharibacteria</i> clade G6 ("Ca. Nanogingivalaceae")</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/MRA.00517-21" target="_new">A complete genome sequence of strain JB001, a member of <i>Saccharibacteria</i> clade G6 ("Ca. Nanogingivalaceae")</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/MRA.00517-21"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/MRA.00517-21" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -330,7 +330,7 @@ layout: publications
 <a id="10.1101/gr.265645.120">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Genome%20Res.-2021-Baker-64-74.pdf" target="_new">Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1101/gr.265645.120" target="_new">Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1101/gr.265645.120"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1101/gr.265645.120" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -348,7 +348,7 @@ layout: publications
 <a id="10.1007/978-1-0716-1518-8">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/bok-978-1-0716-1518-8.pdf" target="_new">Identification of bacterial biosynthetic gene clusters associated with caries</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1007/978-1-0716-1518-8" target="_new">Identification of bacterial biosynthetic gene clusters associated with caries</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/978-1-0716-1518-8"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1007/978-1-0716-1518-8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -364,7 +364,7 @@ layout: publications
 <a id="10.1128/MRA.01067-20">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Microbiology%20Resource%20Announcements-2020-Baker-e01067-20.full.pdf" target="_new">Composite long- and short-read sequencing delivers a complete genome sequence of B04Sm5, a reutericyclin- and mutanocyclin-producing strain of <i>Streptococcus mutans</i></a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/MRA.01067-20" target="_new">Composite long- and short-read sequencing delivers a complete genome sequence of B04Sm5, a reutericyclin- and mutanocyclin-producing strain of <i>Streptococcus mutans</i></a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/MRA.01067-20"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/MRA.01067-20" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -380,7 +380,7 @@ layout: publications
 <a id="10.1177/0022034520914519">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Momeni-JDR.pdf" target="_new">Caries-associated biosynthetic gene clusters of <i>Streptococcus mutans</i></a></span>
+<span class="pub-title"><a href="https://doi.org/10.1177/0022034520914519" target="_new">Caries-associated biosynthetic gene clusters of <i>Streptococcus mutans</i></a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1177/0022034520914519"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1177/0022034520914519" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -396,7 +396,7 @@ layout: publications
 <a id="10.3389/fmicb.2020.00327">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fmicb-11-00327.pdf" target="_new">Development of a bacteriophage cocktail to constrain the emergence of phage-resistant <i>Pseudomonas aeruginosa</i></a></span>
+<span class="pub-title"><a href="https://doi.org/10.3389/fmicb.2020.00327" target="_new">Development of a bacteriophage cocktail to constrain the emergence of phage-resistant <i>Pseudomonas aeruginosa</i></a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fmicb.2020.00327"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.3389/fmicb.2020.00327" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -412,7 +412,7 @@ layout: publications
 <a id="10.1111/omi.12282">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/MOM-baker2020.pdf" target="_new"><i>Streptococcus mutans</i> SpxA2 relays the signal of cell envelope stress from LiaR to effectors that maintain cell wall and membrane homeostasis</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1111/omi.12282" target="_new"><i>Streptococcus mutans</i> SpxA2 relays the signal of cell envelope stress from LiaR to effectors that maintain cell wall and membrane homeostasis</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12282"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12282" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -428,7 +428,7 @@ layout: publications
 <a id="10.1021/acsinfecdis.9b00365">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Tang-et-al-2020-acsinfecdis.9b00365.pdf" target="_new">Cariogenic <i>Streptococcus mutans</i> produces tetramic acid strain-specific antibiotics that impair commensal colonization</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1021/acsinfecdis.9b00365" target="_new">Cariogenic <i>Streptococcus mutans</i> produces tetramic acid strain-specific antibiotics that impair commensal colonization</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1021/acsinfecdis.9b00365"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1021/acsinfecdis.9b00365" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -448,7 +448,7 @@ layout: publications
 <a id="10.1073/pnas.1820594116">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al_PNAS.pdf" target="_new"><i>Klebsiella</i> and <i>Providencia</i> emerge as lone survivors following long-term starvation of the oral microbiota</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1073/pnas.1820594116" target="_new"><i>Klebsiella</i> and <i>Providencia</i> emerge as lone survivors following long-term starvation of the oral microbiota</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1073/pnas.1820594116"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1073/pnas.1820594116" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -468,7 +468,7 @@ layout: publications
 <a id="10.1128/mBio.00321-19">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/e00321-19.full.pdf" target="_new">Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/mBio.00321-19" target="_new">Identification of the biosynthetic gene clusters of the oral microbiome illuminates the unexplored social language of bacteria during health and disease</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mBio.00321-19"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/mBio.00321-19" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -486,7 +486,7 @@ layout: publications
 <a id="10.1177/0022034519877386">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/ADR2019.pdf" target="_new">Precision reengineering of the oral microbiome for caries management</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1177/0022034519877386" target="_new">Precision reengineering of the oral microbiome for caries management</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1177/0022034519877386"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1177/0022034519877386" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -502,7 +502,7 @@ layout: publications
 <a id="10.3389/fmicb.2018.03323">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/fmicb-09-03323.pdf" target="_new">Exploiting the oral microbiome to prevent tooth decay: has evolution already provided the best tools?</a></span>
+<span class="pub-title"><a href="https://doi.org/10.3389/fmicb.2018.03323" target="_new">Exploiting the oral microbiome to prevent tooth decay: has evolution already provided the best tools?</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.3389/fmicb.2018.03323"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.3389/fmicb.2018.03323" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -518,7 +518,7 @@ layout: publications
 <a id="10.1128/JB.00057-18">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/J_Bacteriol_2018_Baker.PDF" target="_new">Characterization of the trehalose utilization operon in <i>Streptococcus mutans</i> reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1128/JB.00057-18" target="_new">Characterization of the trehalose utilization operon in <i>Streptococcus mutans</i> reveals that the TreR transcriptional regulator is involved in stress response pathways and toxin production</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.00057-18"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/JB.00057-18" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -534,7 +534,7 @@ layout: publications
 <a id="10.1016/j.tim.2016.12.012">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Ecology%20of%20the%20Oral%20Microbiome.pdf" target="_new">Ecology of the oral microbiome: beyond bacteria</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1016/j.tim.2016.12.012" target="_new">Ecology of the oral microbiome: beyond bacteria</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.tim.2016.12.012"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1016/j.tim.2016.12.012" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -550,7 +550,7 @@ layout: publications
 <a id="10.1111/omi.12162">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Baker_et_al-2016-Molecular_Oral_Microbiology.pdf" target="_new">Acid-adaptive mechanisms of <i>Streptococcus mutans</i>—the more we know, the more we don't</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1111/omi.12162" target="_new">Acid-adaptive mechanisms of <i>Streptococcus mutans</i>—the more we know, the more we don't</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12162"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12162" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -566,7 +566,7 @@ layout: publications
 <a id="10.21769/BioProtoc.1902">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/Bio-protocol1902.pdf" target="_new">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans</a></span>
+<span class="pub-title"><a href="https://doi.org/10.21769/BioProtoc.1902" target="_new">A modified chromogenic assay for determination of free intracellular NAD+/NADH in Streptococcus mutans</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.21769/BioProtoc.1902"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.21769/BioProtoc.1902" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
@@ -575,8 +575,33 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Faustoferri, R.C., Quivey, Jr., R.G.</span>
 
-<span class="pub-journal"> 📚 <b>Bio-Protocol</b>, 2016 Aug; 6(16) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&hyperinvasive M1 strain of Streptococcus pyogenes.</a>  **mSystems** 2024 August 19; doi: 10.1128/msystems.00736-24
+<span class="pub-journal"> 📚 <b>Bio-Protocol</b>, 2016 Aug; 6(16) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NAD+NADH+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.21769/BioProtoc.1902" target="_blank">doi:10.21769/BioProtoc.1902</a></span>
 
+---
+
+<a id="10.1002/9781119004882">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1002/9781119004882" target="_new">Acid adaptive responses of <i>S. mutans</i>, and mechanisms of integration with oxidative stress</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/9781119004882"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1002/9781119004882" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors">Faustoferri, R.C., Santiago, B., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Cross, B., Xiao, J., Quivey Jr., R.G.</span>
+
+<span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004882" target="_blank">In de Bruijn, F. (ed)</a></span>
+
+---
+
+<a id="10.1128/JB.00383-15">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1128/JB.00383-15" target="_new">Loss of NADH oxidase activity in <i>Streptococcus mutans</i> leads to Rex-mediated overcompensation of NAD<sup>+</sup> regeneration by lactate dehydrogenase</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.00383-15"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.00383-15
 
 
 
