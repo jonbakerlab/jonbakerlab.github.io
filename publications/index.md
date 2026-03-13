@@ -35,7 +35,6 @@ layout: publications
 
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
-<sup>#</sup>41.  **Baker, J.L.**  From bacterial genetics to genomics.  In Lamont, R., Belibasakis, G. (ed), **Oral Microbiology & Immunology, 4th Edition**  ASM Press. **Textbook in press.**
 
 40\.  de Bakker, V., Liu, X., **Tang, J., Barbisan, M., Baker, J.L.**, Veening, J.W. [Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae.](https://www.nature.com/articles/s41467-025-66611-0) **Nature Communications.** 2025 Nov 21; doi: 10.1038/s41467-025-66611-0
 
