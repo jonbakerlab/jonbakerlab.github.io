@@ -82,6 +82,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2025 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+biofilm+FISH+hybridization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12494" target="_blank">doi:10.1111/omi.12494</a></span>
 
 ---
+## 2024
 
 <a id="10.1128/msystems.00736-24">&nbsp;</a>
 
@@ -146,6 +147,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>npj Biofilms and Microbiomes</b>, 2024 April 2; 10:37 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biofilm+ampicillin+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41522-024-00507-7" target="_blank">doi:10.1038/s41522-024-00507-7</a></span>
 
 ---
+## 2023
 
 <a id="10.6083/bpxhc42395">&nbsp;</a>
 
@@ -194,6 +196,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>FEMS Microbiology Reviews</b>, 2023 September 4 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+omics+bioinformatics" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1093/femsre/fuad051" target="_blank">doi:10.1093/femsre/fuad051</a></span>
 
 ---
+## 2022
 
 <a id="10.1128/msystems.00491-22">&nbsp;</a>
 
@@ -244,6 +247,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2022 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Nanosynbacter+Saccharibacteria" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mra.00023-22" target="_blank">doi:10.1128/mra.00023-22</a></span>
 
 ---
+## 2021
 
 <a id="10.1128/msystems.01272-21">&nbsp;</a>
 
@@ -360,6 +364,7 @@ layout: publications
 <span class="pub-journal"> 📚 <b>The Oral Microbiome: Methods and Protocols</b>, 2021 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biosynthetic+gene+clusters+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1007/978-1-0716-1518-8" target="_blank">In Adami, G., (ed)</a></span>
 
 ---
+## 2020
 
 <a id="10.1128/MRA.01067-20">&nbsp;</a>
 
