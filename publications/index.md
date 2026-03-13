@@ -9,6 +9,7 @@ layout: publications
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ## 2025
+---
 
 <a id="10.1038/s41467-025-66611-0">&nbsp;</a>
 
@@ -81,8 +82,8 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2025 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+biofilm+FISH+hybridization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12494" target="_blank">doi:10.1111/omi.12494</a></span>
 
----
 ## 2024
+---
 
 <a id="10.1128/msystems.00736-24">&nbsp;</a>
 
@@ -146,8 +147,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>npj Biofilms and Microbiomes</b>, 2024 April 2; 10:37 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biofilm+ampicillin+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41522-024-00507-7" target="_blank">doi:10.1038/s41522-024-00507-7</a></span>
 
----
+
 ## 2023
+---
 
 <a id="10.6083/bpxhc42395">&nbsp;</a>
 
@@ -195,8 +197,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>FEMS Microbiology Reviews</b>, 2023 September 4 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+omics+bioinformatics" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1093/femsre/fuad051" target="_blank">doi:10.1093/femsre/fuad051</a></span>
 
----
+
 ## 2022
+---
 
 <a id="10.1128/msystems.00491-22">&nbsp;</a>
 
@@ -246,9 +249,8 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2022 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Nanosynbacter+Saccharibacteria" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mra.00023-22" target="_blank">doi:10.1128/mra.00023-22</a></span>
 
----
 ## 2021
-
+---
 <a id="10.1128/msystems.01272-21">&nbsp;</a>
 
 <div class="pub-title-badges">
@@ -363,8 +365,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>The Oral Microbiome: Methods and Protocols</b>, 2021 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biosynthetic+gene+clusters+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1007/978-1-0716-1518-8" target="_blank">In Adami, G., (ed)</a></span>
 
----
+
 ## 2020
+---
 
 <a id="10.1128/MRA.01067-20">&nbsp;</a>
 
@@ -448,9 +451,10 @@ layout: publications
 
 * [Subject of spotlight article in Chemical & Engineering News](https://cen.acs.org/pharmaceuticals/antibiotics/Bacteria-behind-tooth-decay-make/98/web/2020/01)
 
----
+
 
 ## 2019
+---
 
 <a id="10.1073/pnas.1820594116">&nbsp;</a>
 
@@ -520,9 +524,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Frontiers in Microbiology</b>, 2019 Jan 11; 9:3323 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+tooth+decay+evolution" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/fmicb.2018.03323" target="_blank">doi:10.3389/fmicb.2018.03323</a></span>
 
----
 
 ## 2018
+---
 
 <a id="10.1128/JB.00057-18">&nbsp;</a>
 
@@ -538,9 +542,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2018 May 24; 200(12) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=trehalose+TreR+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.00057-18" target="_blank">doi:10.1128/JB.00057-18</a></span>
 
----
 
 ## 2017
+---
 
 <a id="10.1016/j.tim.2016.12.012">&nbsp;</a>
 
@@ -572,9 +576,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2017 Apr; 32(2): 107-117 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12162" target="_blank">doi:10.1111/omi.12162</a></span>
 
----
 
 ## 2016
+---
 
 <a id="10.21769/BioProtoc.1902">&nbsp;</a>
 
@@ -606,7 +610,7 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004882" target="_blank">In de Bruijn, F. (ed)</a></span>
 
----
+
 ## 2015
 ---
 
@@ -644,8 +648,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12150" target="_blank">doi:10.1111/omi.12150</a></span>
 
----
+
 ## 2014
+---
 
 <a id="10.1128/JB.02166-14">&nbsp;</a>
 
@@ -661,8 +666,9 @@ layout: publications
 
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.02166-14" target="_blank">doi:10.1128/JB.02166-14</a></span>
 
----
+
 ## 2013
+---
 
 <a id="10.1016/j.jviromet.2013.11.009">&nbsp;</a>
 
