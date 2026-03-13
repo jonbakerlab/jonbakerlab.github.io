@@ -595,14 +595,97 @@ layout: publications
 
 ---
 
+---
+
 <a id="10.1128/JB.00383-15">&nbsp;</a>
 
 <div class="pub-title-badges">
 <span class="pub-title"><a href="https://doi.org/10.1128/JB.00383-15" target="_new">Loss of NADH oxidase activity in <i>Streptococcus mutans</i> leads to Rex-mediated overcompensation of NAD<sup>+</sup> regeneration by lactate dehydrogenase</a></span>
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.00383-15"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.00383-15
+<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.00383-15" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
 
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Derr, A.D., Faustoferri, R.C., Quivey Jr., R.G.</span>
+
+<span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2015 Dec; 197(23):3645-57 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+Rex+Streptococcus" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.00383-15" target="_blank">doi:10.1128/JB.00383-15</a></span>
+
+<p><i>*Publication of particular interest</i></p>
+
+* [Selected for Spotlight Feature by the Journal of Bacteriology editor](https://jb.asm.org/content/197/23/3625)
+
+---
+
+<a id="10.1111/omi.12150">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1111/omi.12150" target="_new">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12150"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12150" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.</span>
+
+<span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12150" target="_blank">doi:10.1111/omi.12150</a></span>
+
+---
+
+<a id="10.1128/JB.02166-14">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1128/JB.02166-14" target="_new"><i>Streptococcus mutans</i> NADH oxidase lies at the intersection of overlapping regulons controlled by oxygen and NAD<sup>+</sup> Levels</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.02166-14"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.02166-14" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.</span>
+
+<span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.02166-14" target="_blank">doi:10.1128/JB.02166-14</a></span>
+
+---
+
+<a id="10.1016/j.jviromet.2013.11.009">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1016/j.jviromet.2013.11.009" target="_new">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.jviromet.2013.11.009"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1016/j.jviromet.2013.11.009" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Ward, B.M.</span>
+
+<span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1016/j.jviromet.2013.11.009" target="_blank">doi:10.1016/j.jviromet.2013.11.009</a></span>
+
+---
+
+<a id="10.1371/journal.ppat.1003481">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1371/journal.ppat.1003481" target="_new">Host Factor SAMHD1 Restricts DNA Viruses in Non-Dividing Myeloid Cells</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.ppat.1003481"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1371/journal.ppat.1003481" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors">Hollenbaugh, J.A., Gee, P., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.</span>, Daly, M.B., Amie, S.M., Tate, J., Kasai, N., Kanemura, Y., Kim, D., Ward, B.M., Koyanagi, Y., Kim, B.</span>
+
+<span class="pub-journal"> 📚 <b>PLOS Pathogens</b>, 2013; 9(6):e1003481 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=SAMHD1+DNA+viruses" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1371/journal.ppat.1003481" target="_blank">doi:10.1371/journal.ppat.1003481</a></span>
+
+<p><i>*Publication of particular interest</i></p>
+
+* [Selected for PLoS Pathogens 10 Year Anniversary Collection](https://collections.plos.org/pathogens-10th-anniversary)
+
+---
+
+{% include list.html data="citations" component="citation" style="rich" %}
 
 
 35\. Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., **Baker, J.L.,** Hasturk, H., He, X., Bor, B.  <a id="raw-url" href="https://raw.githubusercontent.com/jonbakerlab/jonbakerlab.github.io/master/publication-pdfs/s40168-024-01854-5.pdf">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation.</a> **Microbiome** 2024 July 20; doi: 10.1186/s40168-024-01854-5
