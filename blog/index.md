@@ -2,9 +2,6 @@
 title: "Blog"
 layout: page
 permalink: "/blog/"
-nav:
-  order: 5
-  tooltip: "Lab blog posts"
 description: "Posts and updates from the Baker Lab"
 ---
 
