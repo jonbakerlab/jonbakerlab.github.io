@@ -41,7 +41,7 @@ navigation:
   - { file: "./about/index.md",         title: "Our Research",  url: "https://jonbakerlab.github.io/about/" }
   - { file: "./lab-members/index.md",   title: "Our Team",      url: "https://jonbakerlab.github.io/lab-members/" }
   - { file: "./publications/index.md",  title: "Publications",  url: "https://jonbakerlab.github.io/publications/" }
-  - { file: "blog/index.md", title: "Blog", url: "https://jonbakerlab.github.io/blog/" }
+  - { file: "./blog/index.md", title: "Blog", url: "https://jonbakerlab.github.io/blog/" }
 
 # Footer social links (Font Awesome icon names)
 external:
