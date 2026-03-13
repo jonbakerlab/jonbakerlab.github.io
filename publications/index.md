@@ -4,6 +4,46 @@ permalink: "/publications/"
 layout: page
 ---
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+## 2025
+
+<a id="10.1038/s41467-025-66611-0">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41467-025-66611-0"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41467-025-66611-0" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://www.nature.com/articles/s41467-025-66611-0" target="_new">Multi-omics profiling reveals atypical sugar utilization and identifies a key membrane composition regulator in Streptococcus pneumoniae</a></span>
+    <span class="pub-authors">de Bakker, V., Liu, X., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J., Barbisan, M., Baker, J.L.</span>, Veening, J.W.</span>
+    <div class="pub-info">
+    <div class="pub-featured-image">
+    <a href="/images/pubs/baker-s-pneumoniae-2025.jpg"><img src="/images/pubs/baker-s-pneumoniae-2025.jpg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
+    </div>
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Multi-omics analysis reveals novel metabolic pathways in <i>Streptococcus pneumoniae</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identifies key regulators of membrane composition critical for pathogenesis.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Integrates genomics, transcriptomics, and proteomics to elucidate bacterial physiology.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>Nature Communications</b>, 2025 Nov 21 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Multi-omics+profiling+reveals+atypical+sugar+utilization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41467-025-66611-0" target="_blank">doi:10.1038/s41467-025-66611-0</a></span>
+</div>
+
+<a id="10.1128/msphere.00198-25">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msphere.00198-25"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/msphere.00198-25" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://journals.asm.org/doi/10.1128/msphere.00198-25" target="_new">The salivary virome during childhood dental caries</a></span>
+    <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J., Baker, J.L.</span></span>
+    <div class="pub-info">
+    <div class="pub-featured-image">
+    <a href="/images/pubs/baker-virome-2025.jpg"><img src="/images/pubs/baker-virome-2025.jpg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
+    </div>
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- First comprehensive analysis of viruses in saliva during dental caries development.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Reveals role of bacteriophages in shaping the oral microbiome during disease.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Suggests phage-bacteria interactions may influence caries susceptibility.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>mSphere</b>, 2025 July 28 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=The+salivary+virome+during+childhood+dental+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msphere.00198-25" target="_blank">doi:10.1128/msphere.00198-25</a></span>
+</div>
+
 <b>Publications (reverse chronological order; *denotes publication of particular interest; <sup>#</sup>denotes pending):</b> 
 
 <sup>#</sup>41.  **Baker, J.L.**  From bacterial genetics to genomics.  In Lamont, R., Belibasakis, G. (ed), **Oral Microbiology & Immunology, 4th Edition**  ASM Press. **Textbook in press.**
