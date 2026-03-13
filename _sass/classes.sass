@@ -1,23 +1,28 @@
 .pub
   margin-bottom: 20px
 
+.pub-header
+  display: flex
+  align-items: center
+  gap: 10px
+  margin-bottom: 10px
+
+.altmetric-embed,
+.__dimensions_badge_embed__
+  display: inline-block
+  flex-shrink: 0
+
 .pub-title
-  display: inline
-  font-weight: bold
+  flex: 1
 
 .pub-title a
   font-weight: bold
   text-decoration: none
   color: $link-color
+  display: inline
 
 .pub-title a:hover
   text-decoration: underline
-
-.altmetric-embed,
-.__dimensions_badge_embed__
-  display: inline-block
-  margin-right: 10px
-  vertical-align: middle
 
 .title
   font-size: 1.25em
