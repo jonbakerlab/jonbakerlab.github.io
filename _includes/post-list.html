@@ -2,7 +2,7 @@
   {% assign posts_sorted = site.posts | sort: "date" | reverse %}
   {% for post in posts_sorted %}
     <li class="post-item">
-      {{ post.url | relative_url }}
+      <a href="{{ post.url | relative_url }}">
         <h3>{{ post.title }}</h3>
       </a>
       <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
