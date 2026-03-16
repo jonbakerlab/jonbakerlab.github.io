@@ -12,9 +12,26 @@ layout: publications
 
 ## 2026
 
-
+<br/><br/>
 
 ## 2025
+---
+
+<a id="10.1128/spectrum.02973-25">&nbsp;</a>
+
+<div class="pub-title-badges">
+<span class="pub-title"><a href="https://doi.org/10.1128/spectrum.02973-25" target="_new">Comparative characterization reveals conserved and divergent ecological traits of oral corynebacteria</a></span>
+<div class="pub-badges">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/spectrum.02973-25"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/spectrum.02973-25" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
+
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M., Helliewell, E., Treerat, P., Rozendal, T.</span>, Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
+
+<span class="pub-journal"> 📚 <b>Microbiology Spectrum</b>, 2025 Dec 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/spectrum.02973-25" target="_blank">doi:10.1128/spectrum.02973-25</a></span>
+
+
 ---
 
 <a id="10.1038/s41467-025-66611-0">&nbsp;</a>
