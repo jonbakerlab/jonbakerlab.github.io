@@ -709,7 +709,7 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.</span>
 
-<span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.02166-14" target="_blank">doi:10.1128/JB.02166-14</a></span>
+<span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/jb.01542-14" target="_blank">doi:10.1128/JB.01542-14</a></span>
 
 
 <br/><br/>
