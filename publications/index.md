@@ -702,8 +702,8 @@ layout: publications
 <div class="pub-title-badges">
 <span class="pub-title"><a href="https://doi.org/10.1128/JB.02166-14" target="_new"><i>Streptococcus mutans</i> NADH oxidase lies at the intersection of overlapping regulons controlled by oxygen and NAD<sup>+</sup> Levels</a></span>
 <div class="pub-badges">
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.02166-14"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.02166-14" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/JB.01542-14"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/JB.01542-14" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 </div>
 </div>
 
