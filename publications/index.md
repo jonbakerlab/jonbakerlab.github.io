@@ -680,16 +680,16 @@ layout: publications
 <a id="10.1111/omi.12150">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://doi.org/10.1111/omi.12150" target="_new">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans</a></span>
+<span class="pub-title"><a href=" https://doi.org/10.1111/omi.12110" target="_new">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans</a></span>
 <div class="pub-badges">
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12150"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12150" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1111/omi.12110"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1111/omi.12110" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 </div>
 </div>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.</span>
 
-<span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12150" target="_blank">doi:10.1111/omi.12150</a></span>
+<span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href=" https://doi.org/10.1111/omi.12110" target="_blank">doi:10.1111/omi.12150</a></span>
 
 
 <br/><br/>
