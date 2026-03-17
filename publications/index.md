@@ -729,7 +729,7 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Ward, B.M.</span>
 
-<span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_blank">ScienceDirect</a></span>
+<span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_blank">doi:10.1016/j.jviromet.2013.10.026</a></span>
 
 ---
 
