@@ -640,16 +640,16 @@ layout: publications
 <a id="10.1002/9781119004882">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://doi.org/10.1002/9781119004882" target="_new">Acid adaptive responses of <i>S. mutans</i>, and mechanisms of integration with oxidative stress</a></span>
+<span class="pub-title"><a href="https://doi.org/10.1002/9781119004813.ch88" target="_new">Acid adaptive responses of <i>S. mutans</i>, and mechanisms of integration with oxidative stress</a></span>
 <div class="pub-badges">
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/9781119004882"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1002/9781119004882" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1002/9781119004813.ch88"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1002/9781119004813.ch88" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 </div>
 </div>
 
 <span class="pub-authors">Faustoferri, R.C., Santiago, B., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Cross, B., Xiao, J., Quivey Jr., R.G.</span>
 
-<span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004882" target="_blank">In de Bruijn, F. (ed)</a></span>
+<span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004813.ch88" target="_blank">In de Bruijn, F. (ed)</a></span>
 
 
 <br/><br/>
