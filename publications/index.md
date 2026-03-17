@@ -720,16 +720,16 @@ layout: publications
 <a id="10.1016/j.jviromet.2013.11.009">&nbsp;</a>
 
 <div class="pub-title-badges">
-<span class="pub-title"><a href="https://doi.org/10.1016/j.jviromet.2013.11.009" target="_new">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions</a></span>
+<span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_new">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions</a></span>
 <div class="pub-badges">
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.jviromet.2013.11.009"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1016/j.jviromet.2013.11.009" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/S0166-0934(13)00430-8"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1016/S0166-0934(13)00430-8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 </div>
 </div>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Ward, B.M.</span>
 
-<span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1016/j.jviromet.2013.11.009" target="_blank">doi:10.1016/j.jviromet.2013.11.009</a></span>
+<span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_blank">ScienceDirect</a></span>
 
 ---
 
