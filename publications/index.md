@@ -722,8 +722,8 @@ layout: publications
 <div class="pub-title-badges">
 <span class="pub-title"><a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_new">Development and comparison of a quantitative TaqMan-MGB real-time PCR assay to three other methods of quantifying vaccinia virions</a></span>
 <div class="pub-badges">
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/S0166-0934(13)00430-8"></div>
-<div class="__dimensions_badge_embed__" data-doi="10.1016/S0166-0934(13)00430-8" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.jviromet.2013.10.026"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1016/j.jviromet.2013.10.026" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 </div>
 </div>
 
