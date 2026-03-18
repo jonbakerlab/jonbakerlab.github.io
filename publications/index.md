@@ -27,7 +27,12 @@ layout: publications
 </div>
 </div>
 
-<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M., Helliewell, E., Treerat, P., Rozendal, T.</span>, Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
+<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M.</span>, Helliewell, E., Treerat, P., Rozendal, T., Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
+
+<div class="pub-info">
+</div>
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Isolation, characterization, and genome analysis of two new strains of <i>Corynebacterium</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- <i>C. durum</i> forms robust biofilms while <i>C. argentoratense</i> produces thin biofilms.></span><br><span style="display: inline-block; padding-bottom: 5px;">- Pangenomics identifies differences in nitrate reductase genes across the species, correlating with ability to grow anerobically.</span>
 
 <span class="pub-journal"> 📚 <b>Microbiology Spectrum</b>, 2025 Dec 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/spectrum.02973-25" target="_blank">doi:10.1128/spectrum.02973-25</a></span>
 
@@ -47,8 +52,6 @@ layout: publications
 <span class="pub-authors">de Bakker, V., Liu, X., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J., Barbisan, M., Baker, J.L.</span>, Veening, J.W.</span>
 
 <div class="pub-info">
-<div class="pub-featured-image">
-<a href="/assets/images/pubs/baker-s-pneumoniae-2025.jpg"><img src="/assets/images/pubs/baker-s-pneumoniae-2025.jpg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
 </div>
 <div class="pub-highlights">
 <span style="display: inline-block; padding-bottom: 5px;">- Multi-omics analysis reveals novel metabolic pathways in <i>Streptococcus pneumoniae</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identifies key regulators of membrane composition critical for pathogenesis.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Integrates genomics, transcriptomics, and proteomics to elucidate bacterial physiology.</span>
