@@ -18,27 +18,19 @@ layout: publications
 ---
 
 <a id="10.1128/spectrum.02973-25">&nbsp;</a>
-
-<div class="pub-title-badges">
-<span class="pub-title"><a href="https://doi.org/10.1128/spectrum.02973-25" target="_new">Comparative characterization reveals conserved and divergent ecological traits of oral corynebacteria</a></span>
-<div class="pub-badges">
+<div class="pub">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/spectrum.02973-25"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/spectrum.02973-25" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1128/spectrum.02973-25" target="_new">Comparative characterization reveals conserved and divergent ecological traits of oral corynebacteria</a></span>
+    <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M.</span>, Helliewell, E., Treerat, P., Rozendal, T., Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
+    <div class="pub-info">
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Isolation, characterization, and genome analysis of two new strains of <i>Corynebacterium</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- <i>C. durum</i> forms robust biofilms while <i>C. argentoratense</i> produces thin biofilms.></span><br><span style="display: inline-block; padding-bottom: 5px;">- Pangenomics identifies differences in nitrate reductase genes across the species, correlating with ability to grow anerobically.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>Microbiology Spectrum</b>, 2025 Dec 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/spectrum.02973-25" target="_blank">doi:10.1128/spectrum.02973-25</a></span>
 </div>
-</div>
 
-<span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M.</span>, Helliewell, E., Treerat, P., Rozendal, T., Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
-
-<div class="pub-info">
-</div>
-<div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- Isolation, characterization, and genome analysis of two new strains of <i>Corynebacterium</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- <i>C. durum</i> forms robust biofilms while <i>C. argentoratense</i> produces thin biofilms.></span><br><span style="display: inline-block; padding-bottom: 5px;">- Pangenomics identifies differences in nitrate reductase genes across the species, correlating with ability to grow anerobically.</span>
-</div>
-
-<span class="pub-journal"> 📚 <b>Microbiology Spectrum</b>, 2025 Dec 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/spectrum.02973-25" target="_blank">doi:10.1128/spectrum.02973-25</a></span>
-
-
----
 
 <a id="10.1038/s41467-025-66611-0">&nbsp;</a>
 
