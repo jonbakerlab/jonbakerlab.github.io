@@ -24,6 +24,8 @@ layout: publications
 <div class="pub-badges">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/spectrum.02973-25"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/spectrum.02973-25" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+</div>
+</div>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M.</span>, Helliewell, E., Treerat, P., Rozendal, T., Merritt, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Kreth, J.</span>
 
