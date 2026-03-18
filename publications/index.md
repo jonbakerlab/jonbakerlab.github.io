@@ -34,7 +34,6 @@ layout: publications
 <div class="pub-highlights">
 <span style="display: inline-block; padding-bottom: 5px;">- Isolation, characterization, and genome analysis of two new strains of <i>Corynebacterium</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- <i>C. durum</i> forms robust biofilms while <i>C. argentoratense</i> produces thin biofilms.></span><br><span style="display: inline-block; padding-bottom: 5px;">- Pangenomics identifies differences in nitrate reductase genes across the species, correlating with ability to grow anerobically.</span>
 </div>
-</div>
 
 <span class="pub-journal"> 📚 <b>Microbiology Spectrum</b>, 2025 Dec 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/spectrum.02973-25" target="_blank">doi:10.1128/spectrum.02973-25</a></span>
 
