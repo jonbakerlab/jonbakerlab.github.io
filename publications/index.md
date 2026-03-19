@@ -61,7 +61,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- Showed for the first time the oral virome of children with childhood dental caries is different from those with healthy children.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identified a total of 1,865 unique species-level viral OTUs (vOTUs), of which 478 appeared to be novel.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Several vOTUs predicted to infect <i>Haemophilus</i> and <i>Neisseria</i> were strongly correlated with health, while 5 vOTUs predicted to infect <i>Saccharibacteria, Prevotella</i> and <i>Veillonella</i> were correlated with caries.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- Showed for the first time the oral virome of children with childhood dental caries is different from those with healthy dentition.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identified a total of 1,865 unique species-level viral OTUs (vOTUs), of which 478 appeared to be novel.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Several vOTUs predicted to infect <i>Haemophilus</i> and <i>Neisseria</i> were strongly correlated with health, while 5 vOTUs predicted to infect <i>Saccharibacteria, Prevotella</i> and <i>Veillonella</i> were correlated with caries.</span>
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- The specificity of several commonly used FISH probes is compromised, with cross-species hybridization being more common than previously assumed</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Some biogeographical associations within <i>in situ</i> biofilms may need to be reassessed with more specific probes using the latest genomic data</span>
+<span style="display: inline-block; padding-bottom: 5px;">- The specificity of several commonly used FISH probes is compromised, with cross-species hybridization being more common than previously assumed.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Some biogeographical associations within <i>in situ</i> biofilms may need to be reassessed with more specific probes using the latest genomic data</span>
 </div>
 </div>
 
@@ -265,7 +265,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- This study reports development of the first protocol to obtain complete bacterial genomes from saliva samples using nanopore sequencing.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Using these methods on 3 saliva samples, 11 complete bacterial genomes were obtained.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  4 of the complete genomes were also the first complete genome of their species species.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports development of the first protocol to obtain complete bacterial genomes from saliva samples using nanopore sequencing.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Using these methods on 3 saliva samples, 11 complete bacterial genomes were obtained.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  4 of the complete genomes were also the first complete genome of their respective species.</span>
 </div>
 </div>
 
@@ -325,7 +325,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- This study reports changes in the <i>Streptococcus mutans</i> proteome during acid and oxidative stresses</span><br><span style="display: inline-block; padding-bottom: 5px;">- This dataset provides oral health researchers with a proteome atlas that will enable a more complete understanding of the <i>Streptococcus mutans</i> stress responses that are required for pathogenesis, and will facilitate the development of new and improved therapeutic approaches for dental caries</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study explains the oxygen-sensitive phenotype of the <i>treR</i> deletion strain, which stems from lowered expression of the mutanobactin biosynthetic gene cluster.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports changes in the <i>Streptococcus mutans</i> proteome during acid and oxidative stresses</span><br><span style="display: inline-block; padding-bottom: 5px;">- This dataset provides oral health researchers with a proteome atlas that will enable a more complete understanding of the <i>Streptococcus mutans</i> stress responses that are required for pathogenesis, and will facilitate the development of new and improved therapeutic approaches for dental caries.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study explains the oxygen-sensitive phenotype of the <i>treR</i> deletion strain, which stems from lowered expression of the mutanobactin biosynthetic gene cluster.</span>
 </div>
 </div>
 
@@ -545,7 +545,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- <i>Streptococcus mutans</i> strain B04Sm5 produces multiple tetramic acids, using a novel PKS/NRPS-type biosyntheic gene cluster.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This gene cluster, which we designate <i>muc</i> produces at least three types of reutericyclins and a novel unacylated tetramic acid which we are naming mutanocyclin.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  B04Sm5 was able to use reutericyclin to inhibit the growth of neighboring commensals, suggesting a role in virulence.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The <i>mucF</i> gene was identified as a novel class of acylase, which appears to be broadly distributed and have an HXXEE domain.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- <i>Streptococcus mutans</i> strain B04Sm5 produces multiple tetramic acids using a novel PKS/NRPS-type biosyntheic gene cluster.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This gene cluster, which we designate <i>muc</i> produces at least three types of reutericyclins and a novel unacylated tetramic acid which we are naming mutanocyclin.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  B04Sm5 was able to use reutericyclin to inhibit the growth of neighboring commensals, suggesting a role in virulence.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The <i>mucF</i> gene was identified as a novel class of acylase, which appears to be broadly distributed and have an HXXEE domain.</span>
 </div>
 </div>
 
@@ -597,7 +597,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- We mined for biosynthetic gene clusters across 461 genomes from oral bacteria, identifying 4,915 such clusters.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These were cross-referenced across 254 metagenomes and metatranscriptomes from individuals with healthy teeth, dental caries, or periodontitis, identifying 2,473 differentially represented clusters.</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Confirmatory mass spectrometry of a novel set of saliva samples from caries versus health identifed several compounds with homology to the predicted BGC products.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These findings greatly expand the number of known biosynthetic pathways present in the oral microbiome and provide an atlas for experimental characterization of these abundant, yet poorly understood, molecules and socio-chemical relationships, which impact the development of caries and periodontitis, two of the world’s most common chronic diseases.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- We mined for biosynthetic gene clusters across 461 genomes from oral bacteria, identifying 4,915 such clusters.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These were cross-referenced across 254 metagenomes and metatranscriptomes from individuals with healthy teeth, dental caries, or periodontitis, identifying 2,473 differentially represented clusters.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Confirmatory mass spectrometry of a novel set of saliva samples from caries versus health identifed several compounds with homology to the predicted BGC products.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These findings greatly expand the number of known biosynthetic pathways present in the oral microbiome and provide an atlas for experimental characterization of these abundant, yet poorly understood, molecules and socio-chemical relationships, which impact the development of caries and periodontitis, two of the world’s most common chronic diseases.</span>
 </div>
 </div>
 
@@ -637,7 +637,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- This article reviews approaches to combat dental caries, including diet modifications, probiotics, fluoride, polyol gums, vaccines, and novel antimicrobials including STAMPs and phage .</span><br><span style="display: inline-block; padding-bottom: 5px;">- We make the argument that the oral microbiome has likely evolved many antimicrobials that can eliminate pathogenic bacteria that lead to dysbiosis and ultimately dental caries.</i>.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- This article reviews approaches to combat dental caries, including diet modifications, probiotics, fluoride, polyol gums, vaccines, and novel antimicrobials including STAMPs and phage .</span><br><span style="display: inline-block; padding-bottom: 5px;">- We make the argument that the oral microbiome has likely evolved many antimicrobials that can eliminate pathogenic bacteria that lead to dysbiosis and ultimately dental caries.</span>
 </div>
 </div>
 
@@ -842,7 +842,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- This study reports a qPCR assay to quantify orthopoxviruses</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The assay was robust compared to standards as well as other methods of quantification including fluorescent microscopy, plaque assay, and optical density of purified virions.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Used in conjunction with a plaque assay that measures infectious particles, this assay can identify production of viral DNA compared to infectious virus, useful for characterizing viral genes.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports a qPCR assay to quantify orthopoxviruses.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The assay was robust compared to standards as well as other methods of quantification including fluorescent microscopy, plaque assay, and optical density of purified virions.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Used in conjunction with a plaque assay that measures infectious particles, this assay can identify production of viral DNA compared to infectious virus, useful for characterizing viral genes.</span>
 </div>
 </div>
 
@@ -861,7 +861,7 @@ Baker Lab members displayed in bold in the author lines.
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- •	SAMHD1 restricts vaccinia and HSV 1 replication in non dividing myeloid cells by depleting intracellular dNTP pools</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Viral replication is even more impaired when viral dNTP metabolism genes such as thymidine kinase are absent.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  •	The study positions SAMHD1 as a broadly acting innate antiviral factor against multiple DNA viruses in macrophages.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- SAMHD1 restricts vaccinia and HSV 1 replication in non dividing myeloid cells by depleting intracellular dNTP pools.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Viral replication is even more impaired when viral dNTP metabolism genes such as thymidine kinase are absent.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The study positions SAMHD1 as a broadly acting innate antiviral factor against multiple DNA viruses in macrophages.</span>
 </div>
 </div>
 
