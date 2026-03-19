@@ -10,9 +10,7 @@ layout: publications
 
 <br/><br/>
 
-## 2026
 
-<br/><br/>
 
 ## 2025
 ---
