@@ -525,6 +525,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Saputo, S., Faustoferri, R., Quivey Jr., R.G.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Deletion of the SpxA2 regulator in <i>Streptococcus mutans</i> results in increased unsaturated fatty acids, and altered transcription of <i>fabT</i> and <i>fabM</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Expression of <i>spxA2</i> was dependent on the <i>liaR</i> component of the LiaFSR system, known to sense membrane stress in other Gram positive bacteria.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Overall, the results of this study indicate that SpxA2 serves a crucial role in transmitting the signal of cell wall/membrane damage from the LiaFSR sensor to downstream effectors in the SpxA2 regulon which restore and maintain membrane and cell wall homeostasis.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2020 June; 35(3): 118-128 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=SpxA2+Streptococcus+cell+envelope" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12282" target="_blank">doi:10.1111/omi.12282</a></span>
 </div>
 
@@ -537,6 +543,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1021/acsinfecdis.9b00365" target="_new">Cariogenic <i>Streptococcus mutans</i> produces tetramic acid strain-specific antibiotics that impair commensal colonization</a></span>
 
 <span class="pub-authors">Tang, X., Kudo, Y., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L., LaBonte, S.</span>, Jordan, P.A., Huan, T., KcKinnie, S.M.K., Guo, J., Huan, T., Moore, B.S., Edlund, A.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- <i>Streptococcus mutans</i> strain B04Sm5 produces multiple tetramic acids, using a novel PKS/NRPS-type biosyntheic gene cluster.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This gene cluster, which we designate <i>muc</i> produces at least three types of reutericyclins and a novel unacylated tetramic acid which we are naming mutanocyclin.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  B04Sm5 was able to use reutericyclin to inhibit the growth of neighboring commensals, suggesting a role in virulence.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The <i>mucF</i> gene was identified as a novel class of acylase, which appears to be broadly distributed and have an HXXEE domain.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>ACS Infectious Diseases</b>, 2020 April; 6(4):563-571 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=tetramic+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1021/acsinfecdis.9b00365" target="_blank">doi:10.1021/acsinfecdis.9b00365</a></span>
 </div>
@@ -561,6 +573,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Hendrickson, E.L., Tang, X., Lux, R., He, X., Edlund, A., McLean, J.S., Shi, W.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- We observed the salivary microbiome through a starvation phase in sterile-filtered saliva for 100 days.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The only surviving and transcriptionally active species were <i>Klebsiella</i> and <i>Providencia</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The isolates accumulated single nucleotide polymorphisms in known growth advantage in stationary phase alleles and produced natural products closely resembling antimicrobial cyclic depsipeptides.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study suggests that pathogenic Enterobacteriaceae persist much longer than their more benign neighbors in the salivary microbiome when faced with starvation. This is particularly significant, given that hospital surfaces contaminated with oral fluids, especially sinks and drains, are well-established sources of outbreaks of drug-resistant Enterobacteriaceae.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>PNAS</b>, 2019 April 23; 116(17):8499-8504 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Klebsiella+Providencia+oral+starvation" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1073/pnas.1820594116" target="_blank">doi:10.1073/pnas.1820594116</a></span>
 </div>
 
@@ -578,6 +596,12 @@ layout: publications
 
 <span class="pub-authors">Aleti, G., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Tang, X., Alvarez, R., Denis, M., Tran, N.C., Melnik, A.V., Zhong, C., Ernst, M., Dorrestein, P.C., Edlund, A.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- We mined for biosynthetic gene clusters across 461 genomes from oral bacteria, identifying 4,915 such clusters.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These were cross-referenced across 254 metagenomes and metatranscriptomes from individuals with healthy teeth, dental caries, or periodontitis, identifying 2,473 differentially represented clusters.</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Confirmatory mass spectrometry of a novel set of saliva samples from caries versus health identifed several compounds with homology to the predicted BGC products.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These findings greatly expand the number of known biosynthetic pathways present in the oral microbiome and provide an atlas for experimental characterization of these abundant, yet poorly understood, molecules and socio-chemical relationships, which impact the development of caries and periodontitis, two of the world’s most common chronic diseases.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mBio</b>, 2019 April 16 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biosynthetic+gene+clusters+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mBio.00321-19" target="_blank">doi:10.1128/mBio.00321-19</a></span>
 </div>
 
@@ -593,6 +617,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, He, X., Shi, W.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This review discusses advances in precision approaches to combat dental caries, especially highlighting specifically targeted antimicrobial peptides (STAMPs).</span><br><span style="display: inline-block; padding-bottom: 5px;">- C16G2 is a STAMP synthesized by combining the <i>Streptococcus mutans</i> pheromone, CSP, with a a killing domain from the antimicrobial novispirin.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  C16G2 was able to selectively remove <i>S. mutans</i> from biofilms, representing a promising novel therapeutic against dental caries.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Advances in Dental Research</b>, 2019 October 21; 30(2), 34-39 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+caries+precision" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1177/0022034519877386" target="_blank">doi:10.1177/0022034519877386</a></span>
 </div>
 
@@ -605,6 +635,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.3389/fmicb.2018.03323" target="_new">Exploiting the oral microbiome to prevent tooth decay: has evolution already provided the best tools?</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This article reviews approaches to combat dental caries, including diet modifications, probiotics, fluoride, polyol gums, vaccines, and novel antimicrobials including STAMPs and phage .</span><br><span style="display: inline-block; padding-bottom: 5px;">- We make the argument that the oral microbiome has likely evolved many antimicrobials that can eliminate pathogenic bacteria that lead to dysbiosis and ultimately dental caries.</i>.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Frontiers in Microbiology</b>, 2019 Jan 11; 9:3323 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+tooth+decay+evolution" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/fmicb.2018.03323" target="_blank">doi:10.3389/fmicb.2018.03323</a></span>
 </div>
@@ -624,6 +660,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Lindsay, E.L., Faustoferri, R.C., To, T.T., Hendrickson, E.L., He, X., Shi, W., McLean, J.S., Quivey Jr., R.G.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study characterized the trehalose utiliztion operon in <i>Streptococcus mutans</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The operon was required for growth on trehalose, and unexpectedly the TreR regulator was required for tolerance of oxidative stress.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  RNA-seq also identified the <i>treR</i> was involved in regulation of mutacin production and competence, suggesting a role in competative fitness.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2018 May 24; 200(12) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=trehalose+TreR+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.00057-18" target="_blank">doi:10.1128/JB.00057-18</a></span>
 </div>
 
@@ -642,6 +684,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Bor, B., Agnello, M., Shi, W., He, X.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This article reviews the current understanding of the oral microbiome, especially regarding noncanonical members such as fungi, viruses, and ultrasmall bacteria.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Recently discovered ultrasmall <i>Saccharibacteria</i> are essentially tiny parasitic bacteria dependent on physical association with a host bacterium, and appear to be involved in oral inflammation.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The fungus <i>Candida albicans</i> is increasingly recognized to have different mechanistic associations with various oral bacteria, and can both be proinflammatory and increase caries pathogenesis.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Trends in Microbiology</b>, 2017 May; 25(5): 362-374 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+bacteria+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1016/j.tim.2016.12.012" target="_blank">doi:10.1016/j.tim.2016.12.012</a></span>
 </div>
 
@@ -654,6 +702,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1111/omi.12162" target="_new">Acid-adaptive mechanisms of <i>Streptococcus mutans</i>—the more we know, the more we don't</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Faustoferri, R.C., Quivey, Jr., R.G.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This review discusses the diverse acid tolerance mechanisms of <i>Streptococcus mutans</i>, which enable it to cause disease.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Mechanisms reviewed include unsaturated fatty acid biosynthesis, glucan production, ATPase activity, agmatine deiminase, malolactic fermentation, BCAA biosynthesis, ion transport, alteration of sugar import, alteration of glycolytic end-products, DNA-repair, and protein fate.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  What is known about regulation and scope of the acid-tolerance response at the transcriptional level is also reviewed.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2017 Apr; 32(2): 107-117 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12162" target="_blank">doi:10.1111/omi.12162</a></span>
 </div>
@@ -673,6 +727,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Faustoferri, R.C., Quivey, Jr., R.G.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This article describes a protocol to determine the intracellular ratio of free NAD+/NADH in <i>Streptococcus mutans</i>, but could likely be applicable to most bacteria.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Bio-Protocol</b>, 2016 Aug; 6(16) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NAD+NADH+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.21769/BioProtoc.1902" target="_blank">doi:10.21769/BioProtoc.1902</a></span>
 </div>
 
@@ -685,6 +745,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1002/9781119004813.ch88" target="_new">Acid adaptive responses of <i>S. mutans</i>, and mechanisms of integration with oxidative stress</a></span>
 
 <span class="pub-authors">Faustoferri, R.C., Santiago, B., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Cross, B., Xiao, J., Quivey Jr., R.G.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This textbook chapter discusses the diverse acid tolerance mechanisms of <i>Streptococcus mutans</i>, which enable it to cause disease.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The acid tolerance response is also intimately linked and overlapping with the oxidative stress response.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Stress and Environmental Control of Gene Expression in Bacteria, 1st Edition</b>, 2016 Aug | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=acid+adaptive+oxidative+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1002/9781119004813.ch88" target="_blank">doi:10.1002/9781119004813.ch88</a></span>
 </div>
@@ -704,6 +770,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Derr, A.D., Faustoferri, R.C., Quivey Jr., R.G.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Deletion of the NADH oxidase (<i>nox</i>) in <i>Streptococcus mutans</i> unexpectedly led to an increase in the NAD+/NADH ratio.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This turned out to be due to an increase in lactate dehydrogenase expression mediated by the redox sensing regulator, <i>rex</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The altered transcriptome and metabolome of the Δ<i>nox</ > strain were sufficient to impair its ability to compete with commensal peroxigenic oral streptococci during growth under aerobic conditions.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2015 Dec; 197(23):3645-57 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+Rex+Streptococcus" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/JB.00383-15" target="_blank">doi:10.1128/JB.00383-15</a></span>
 </div>
 
@@ -720,6 +792,12 @@ layout: publications
 <span class="pub-title"><a href=" https://doi.org/10.1111/omi.12110" target="_new">Transcriptional profile of glucose-shocked and acid-adapted strains of Streptococcus mutans</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Abranches, J.A., Faustoferri, R.C., Hubbard, C.J., Lemos, J.A., Courtney, M.A., Quivey Jr., R.G.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study characterized the transcriptional response of <i>Streptococcus mutans through a glucose shock and resulting pH drop within a continuous culture bioreactor.</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- A <i>fabM</i> mutant, which as highly acid-sensitive and could not produce unsaturated fatty acids was also examined.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  This study defines both an immediate transcriptional response to pH drop, and the response during long-term growth in acidic conditions, which is important for <i>S. mutans</i> virulence.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2015 Dec; 30(6):496-517 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=glucose+acid+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href=" https://doi.org/10.1111/omi.12110" target="_blank">doi:10.1111/omi.12150</a></span>
 </div>
@@ -739,6 +817,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Derr, A.M., Karuppiah, K., MacGilvray, M.E., Kajfasz, J.K., Faustoferri, R.C., Rivera-Ramos, I., Bitoun, J.P., Lemos, J.A., Wen, Z.T., Quivey Jr., R.G.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study illustrates that <i>Streptococcus mutans nox</i> is regulated by the SpxA1 and Rex transcriptional regulators.</span><br><span style="display: inline-block; padding-bottom: 5px;">- RNA-seq identifed the large-scale transcriptional response to either addition of oxygen to the culture, or deletion of <i>nox</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  These data suggest a regulatory loop in which the roles of nox in reduction of oxygen and regeneration of NAD+ affect the activity levels of Spx and Rex, respectively, and their regulons, which control several genes, including nox, crucial to growth of S. mutans under conditions of oxidative stress.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2014 June; 196(12):2166-2177 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NADH+oxidase+oxygen+NAD" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/jb.01542-14" target="_blank">doi:10.1128/JB.01542-14</a></span>
 </div>
 
@@ -757,6 +841,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Ward, B.M.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports a qPCR assay to quantify orthopoxviruses</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The assay was robust compared to standards as well as other methods of quantification including fluorescent microscopy, plaque assay, and optical density of purified virions.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Used in conjunction with a plaque assay that measures infectious particles, this assay can identify production of viral DNA compared to infectious virus, useful for characterizing viral genes.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_blank">doi:10.1016/j.jviromet.2013.10.026</a></span>
 </div>
 
@@ -769,6 +859,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1371/journal.ppat.1003481" target="_new">Host Factor SAMHD1 Restricts DNA Viruses in Non-Dividing Myeloid Cells</a></span>
 
 <span class="pub-authors">Hollenbaugh, J.A., Gee, P., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.</span>, Daly, M.B., Amie, S.M., Tate, J., Kasai, N., Kanemura, Y., Kim, D., Ward, B.M., Koyanagi, Y., Kim, B.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- •	SAMHD1 restricts vaccinia and HSV 1 replication in non dividing myeloid cells by depleting intracellular dNTP pools</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Viral replication is even more impaired when viral dNTP metabolism genes such as thymidine kinase are absent.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  •	The study positions SAMHD1 as a broadly acting innate antiviral factor against multiple DNA viruses in macrophages.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>PLOS Pathogens</b>, 2013; 9(6):e1003481 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=SAMHD1+DNA+viruses" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1371/journal.ppat.1003481" target="_blank">doi:10.1371/journal.ppat.1003481</a></span>
 </div>
