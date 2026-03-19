@@ -9,14 +9,14 @@ layout: page
 
 <br/>
 
-<img src="/assets/images/projects-fatty-acids/significance.jpg" width="300" height=auto style="display: inline; margin: auto;" />  
+<img src="/assets/images/projects-fatty-acids/significance.jpg" width="500" height=auto style="display: inline; margin: auto;" />  
 
 ### [Exploring fatty acid metabolism in _Streptococcus_ to guide therapeutic development](./lipidomics-project/index.md)
 The bacterial genus _Streptococcus_ contains some of the most important pathogens and commensals of the human microbiome, with multiple species causing significant human morbidity and mortality. This project is revealing how three important _Streptococcus_ pathogens utilize and modify host fatty acids and discover how this process integrates with quorum-sensing and virulence regulation. By defining the biochemical and signaling pathways connecting fatty acid utilization to pathogenic behavior, this work will uncover new molecular targets for prebiotic strategies that disarm pathogens.
 
 <br/><br/>
 
-<img src="/assets/images/projects-RESISFORCE/IMG_5313.jpg" width="400" height=auto style="display: inline; margin: auto;" />
+<img src="/assets/images/projects-RESISFORCE/IMG_5313.jpg" width="500" height=auto style="display: inline; margin: auto;" />
 
 ### [RESISFORCE: partnering Norway, Brazil, India, Canada, and the USA to further excellence in education, research, and innovation in the study of biofilms and antibiotic research](./RESISFORCE-project/index.md)
 Resistance of pathogenic microbes to antibiotics is a growing worldwide concern, with global deaths due to antibiotic resistance predicted to overtake global deaths due to cancer and become the #1 cause of death worldwide by 2050. This project, funded by the Research Council of Norway, partners research labs from the Norwegian Institute of Public Health, the University of Oslo, TATA Consultancy Services (based in Delhi, India), the University of Campinas (Piracicaba, Brazil), McGill University (Montreal, Canada), the University of Illinois at Chicago, the Forsyth Institute, and OHSU to engage diverse trainees, clinicians, and scientists in educational outreach regarding the accelerating antibiotic resistance crisis and antibiotic stewardship.
