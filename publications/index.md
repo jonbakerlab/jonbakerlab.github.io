@@ -368,7 +368,7 @@ layout: publications
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- This study reports development of the first protocol to obtain complete bacterial genomes from saliva samples using nanopore sequencing.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Using these methods on 3 saliva samples, 11 complete bacterial genomes were obtained.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  4 of the complete genomes were also the first complete genome of their species species.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- This study follows the sputum microbiome of a cystic fibrosis patient during several rounds of antibiotic treatment using multiomics.</span><br><span style="display: inline-block; padding-bottom: 5px;">- During periods of rapid lung function loss, the patient’s lung microbiome was dominated by the anaerobic, mucus-degrading bacteria belonging to <i>Streptococcus, Veillonella</i>, and <i>Prevotella genera</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  This case study supports the hypothesis that facultative anaerobes operated as keystone species in this CF microbiome. Personalized multi-omics may become a viable approach for routine clinical diagnostics in the future, providing critical information to inform treatment decisions.</span>
 </div>
 </div>
 
@@ -385,6 +385,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study utilized nanopore sequencing to obtain the first complete genomes of Clade G6 <i>Saccharibacteria</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The complete genomes indicated that this clade has distinct metabolic capabilities from the more well-understood Clade G1 and may thus have a unique host and/or ecological niche.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  This data provides useful clues that may help researchers eventually isolate and cultivate <i>Saccharibacteria</i> Clade G6.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mSphere</b>, 2021 Aug 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Saccharibacteria+clade+G6" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mSphere.00530-21" target="_blank">doi:10.1128/mSphere.00530-21</a></span>
 </div>
 
@@ -398,6 +404,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This announcement reports the first complete genome of a Clade G6 <i>Saccharibacteria</i>.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2021 Jun | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=JB001+Nanogingivalaceae" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/MRA.00517-21" target="_blank">doi:10.1128/MRA.00517-21</a></span>
 </div>
 
@@ -410,6 +422,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1101/gr.265645.120" target="_new">Deep metagenomic sequencing examines the oral microbiome during dental caries, revealing novel taxa and co-occurrences with host molecules</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Morton, J.T., Dinis, M., Alvarez, R., Tran, N.C., Knight, R., Edlund, A.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This landmark study examined the oral microbiome of children with severe dental caries versus those with healthy teeth.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study showed the children with caries had a distinct microbiome, enriched in <i>Prevotella</i> and depleted of <i>Rothia, Neisseria</i>, and <i>Haemophilus</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  This study also identified the first genomes of 42 novel taxa, and co-analysis with salivary immunological markers provided an atlas of microbe-host factor co-occurrences.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Genome Research</b>, 2021 January; 31(1):64-74 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=metagenomic+oral+microbiome+dental+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1101/gr.265645.120" target="_blank">doi:10.1101/gr.265645.120</a></span>
 </div>
@@ -425,6 +443,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1007/978-1-0716-1518-8" target="_new">Identification of bacterial biosynthetic gene clusters associated with caries</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This textbook chapter provides a protocol on how to identify bacterial biosynthetic gene clusters associated with particular host metadata (in this case dental caries disease).</span><br><span style="display: inline-block; padding-bottom: 5px;">- The chapter provides all the shell, Python, and R code to perform the analyses.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>The Oral Microbiome: Methods and Protocols</b>, 2021 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biosynthetic+gene+clusters+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1007/978-1-0716-1518-8" target="_blank">In Adami, G., (ed)</a></span>
 </div>
@@ -444,6 +468,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This annoucement provides the first complete genome of <i>Streptococcus mutans</i> strain B04Sm5, which produces mutanocyclin and reutericyclins.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2020 Nov | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=B04Sm5+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/MRA.01067-20" target="_blank">doi:10.1128/MRA.01067-20</a></span>
 </div>
 
@@ -457,6 +487,12 @@ layout: publications
 
 <span class="pub-authors">Momeni, S., Beno, S., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A., Ghazal, T., Wu, H., Childers, N.K.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study examined <i>Streptococcus mutans</i> biosynthetic gene clusters with elevated transcription during dental caries across a large epidemiological study.</span><br><span style="display: inline-block; padding-bottom: 5px;">- 3 butyrolactone and ladderane-type biosynthetic clusters were identified.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Strains encoding these gene clusters appeared to have increased acid production, suggesting increased virulence.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Dental Research</b>, 2020 July; 99(8):969-976 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=caries+biosynthetic+Streptococcus" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1177/0022034520914519" target="_blank">doi:10.1177/0022034520914519</a></span>
 </div>
 
@@ -469,6 +505,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.3389/fmicb.2020.00327" target="_new">Development of a bacteriophage cocktail to constrain the emergence of phage-resistant <i>Pseudomonas aeruginosa</i></a></span>
 
 <span class="pub-authors">Yang, Y., Shen, W., Zhong, Q., He, X., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Xiong, K., Jin, X., Wang, J., Hu, F., Le, S.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Using phage training, we developed a a phage able to infect <i>Pseudomonas aeruginosa</i> mutants with a truncated O-antigen.</span><br><span style="display: inline-block; padding-bottom: 5px;">- We then developed a phage cocktail that was effective against diverse isolates of <i>P. aeruginosa</i> and in the short term constrained evolution of phage resistance</span><br><span style="display: inline-block; padding-bottom: 5px;">-  This study provides an alternative strategy for designing phage cocktails for phage therapy.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Frontiers in Microbiology</b>, 2020 March 4; 11:327 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=bacteriophage+Pseudomonas" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/fmicb.2020.00327" target="_blank">doi:10.3389/fmicb.2020.00327</a></span>
 </div>
