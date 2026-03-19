@@ -50,7 +50,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Nature Communications</b>, 2025 Nov 21 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Multi-omics+profiling+reveals+atypical+sugar+utilization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41467-025-66611-0" target="_blank">doi:10.1038/s41467-025-66611-0</a></span>
 </div>
 
----
 
 <a id="10.1128/msphere.00198-25">&nbsp;</a>
 
@@ -70,7 +69,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>mSphere</b>, 2025 July 28 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=salivary+virome+dental+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msphere.00198-25" target="_blank">doi:10.1128/msphere.00198-25</a></span>
 </div>
 
----
 
 <a id="10.1080/20002297.2025.2509669">&nbsp;</a>
 
@@ -90,7 +88,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Oral Microbiology</b>, 2025 May 25 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Beta+vulgaris+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1080/20002297.2025.2509669" target="_blank">doi:10.1080/20002297.2025.2509669</a></span>
 </div>
 
----
 
 <a id="10.1111/omi.12494">&nbsp;</a>
 
@@ -133,7 +130,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>mSystems</b>, 2024 August 19 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=genome-scale+metabolic+model+Streptococcus+pyogenes" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msystems.00736-24" target="_blank">doi:10.1128/msystems.00736-24</a></span>
 </div>
 
----
 
 <a id="10.1186/s40168-024-01854-5">&nbsp;</a>
 
@@ -153,7 +149,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Microbiome</b>, 2024 July 20 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Klebsiella+microbiome+starvation" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1186/s40168-024-01854-5" target="_blank">doi:10.1186/s40168-024-01854-5</a></span>
 </div>
 
----
 
 <a id="10.1128/mbio.00840-24">&nbsp;</a>
 
@@ -164,10 +159,15 @@ layout: publications
 
 <span class="pub-authors">Bjånes, E., Stream, A., Gibson, P.S., Bravo., A.M., Dahesh, S., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Varble, A., Nizet, V., Veening, J.W.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- We report the first development of a CRISPRi system in <i>Streptococcus pyogenes</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This system enables construction of a gene knockdown strain in just two days, as opposed to several weeks with earlier technologies.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The tools and methodologies described in this work are poised to facilitate fundamental research in <i>Streptococcus pyogenes</i>, contributing to vaccine development and the discovery of novel antibiotic targets.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mBio</b>, 2024 July 2 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=CRISPR+Streptococcus" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mbio.00840-24" target="_blank">doi:10.1128/mbio.00840-24</a></span>
 </div>
 
----
 
 <a id="10.1038/s41522-024-00507-7">&nbsp;</a>
 
@@ -199,7 +199,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>OHSU School of Dentistry Anthology</b>, 2023 December 19; 1(1):3-11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Baker+OHSU+dentistry" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.6083/bpxhc42395" target="_blank">doi:10.6083/bpxhc42395</a></span>
 </div>
 
----
 
 <a id="10.1038/s41579-023-00963-6">&nbsp;</a>
 
@@ -213,7 +212,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Nature Reviews Microbiology</b>, 2023 September 12 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+diversity+biogeography" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41579-023-00963-6" target="_blank">doi:10.1038/s41579-023-00963-6</a></span>
 </div>
 
----
 
 <a id="10.1093/femsre/fuad051">&nbsp;</a>
 
@@ -247,7 +245,6 @@ layout: publications
 
 <p><i>*Publication of particular interest</i></p>
 
----
 
 <a id="10.1128/jb.00042-22">&nbsp;</a>
 
@@ -261,7 +258,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2022 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=mucG+mucH+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/jb.00042-22" target="_blank">doi:10.1128/jb.00042-22</a></span>
 </div>
 
----
 
 <a id="10.1128/mra.00023-22">&nbsp;</a>
 
@@ -293,7 +289,6 @@ layout: publications
 
 <p><i>*Publication of particular interest</i></p>
 
----
 
 <a id="10.3389/froh.2021.796140">&nbsp;</a>
 
@@ -307,7 +302,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Frontiers in Oral Health</b>, 2022 January 6; 2:796140 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=mutanocyclin+reutericyclin+biofilm" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/froh.2021.796140" target="_blank">doi:10.3389/froh.2021.796140</a></span>
 </div>
 
----
 
 <a id="10.3390/ijms222112050">&nbsp;</a>
 
@@ -321,7 +315,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>International Journal of Molecular Sciences</b>, 2021 November 7; 22, 12050 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=cystic+fibrosis+lung+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3390/ijms222112050" target="_blank">doi:10.3390/ijms222112050</a></span>
 </div>
 
----
 
 <a id="10.1128/mSphere.00530-21">&nbsp;</a>
 
@@ -335,7 +328,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>mSphere</b>, 2021 Aug 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Saccharibacteria+clade+G6" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mSphere.00530-21" target="_blank">doi:10.1128/mSphere.00530-21</a></span>
 </div>
 
----
 
 <a id="10.1128/MRA.00517-21">&nbsp;</a>
 
@@ -349,7 +341,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2021 Jun | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=JB001+Nanogingivalaceae" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/MRA.00517-21" target="_blank">doi:10.1128/MRA.00517-21</a></span>
 </div>
 
----
 
 <a id="10.1101/gr.265645.120">&nbsp;</a>
 
@@ -365,7 +356,6 @@ layout: publications
 
 <p><i>*Publication of particular interest</i></p>
 
----
 
 <a id="10.1007/978-1-0716-1518-8">&nbsp;</a>
 
@@ -397,7 +387,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2020 Nov | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=B04Sm5+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/MRA.01067-20" target="_blank">doi:10.1128/MRA.01067-20</a></span>
 </div>
 
----
 
 <a id="10.1177/0022034520914519">&nbsp;</a>
 
@@ -411,7 +400,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Dental Research</b>, 2020 July; 99(8):969-976 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=caries+biosynthetic+Streptococcus" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1177/0022034520914519" target="_blank">doi:10.1177/0022034520914519</a></span>
 </div>
 
----
 
 <a id="10.3389/fmicb.2020.00327">&nbsp;</a>
 
@@ -425,7 +413,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Frontiers in Microbiology</b>, 2020 March 4; 11:327 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=bacteriophage+Pseudomonas" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/fmicb.2020.00327" target="_blank">doi:10.3389/fmicb.2020.00327</a></span>
 </div>
 
----
 
 <a id="10.1111/omi.12282">&nbsp;</a>
 
@@ -439,7 +426,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2020 June; 35(3): 118-128 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=SpxA2+Streptococcus+cell+envelope" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12282" target="_blank">doi:10.1111/omi.12282</a></span>
 </div>
 
----
 
 <a id="10.1021/acsinfecdis.9b00365">&nbsp;</a>
 
@@ -480,7 +466,6 @@ layout: publications
 
 * [Recommended as being of special significance by Faculty of 1000Prime](https://f1000.com/prime/735541010)
 
----
 
 <a id="10.1128/mBio.00321-19">&nbsp;</a>
 
@@ -496,7 +481,6 @@ layout: publications
 
 <p><i>*Publication of particular interest</i></p>
 
----
 
 <a id="10.1177/0022034519877386">&nbsp;</a>
 
@@ -510,7 +494,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Advances in Dental Research</b>, 2019 October 21; 30(2), 34-39 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+caries+precision" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1177/0022034519877386" target="_blank">doi:10.1177/0022034519877386</a></span>
 </div>
 
----
 
 <a id="10.3389/fmicb.2018.03323">&nbsp;</a>
 
@@ -560,7 +543,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Trends in Microbiology</b>, 2017 May; 25(5): 362-374 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+bacteria+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1016/j.tim.2016.12.012" target="_blank">doi:10.1016/j.tim.2016.12.012</a></span>
 </div>
 
----
 
 <a id="10.1111/omi.12162">&nbsp;</a>
 
@@ -592,7 +574,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Bio-Protocol</b>, 2016 Aug; 6(16) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=NAD+NADH+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.21769/BioProtoc.1902" target="_blank">doi:10.21769/BioProtoc.1902</a></span>
 </div>
 
----
 
 <a id="10.1002/9781119004882">&nbsp;</a>
 
@@ -628,7 +609,6 @@ layout: publications
 
 * [Selected for Spotlight Feature by the Journal of Bacteriology editor](https://jb.asm.org/content/197/23/3625)
 
----
 
 <a id="10.1111/omi.12150">&nbsp;</a>
 
@@ -678,7 +658,6 @@ layout: publications
 <span class="pub-journal"> 📚 <b>Journal of Virological Methods</b>, 2014; 196:126-132 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=TaqMan+vaccinia+virions" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.sciencedirect.com/science/article/pii/S0166093413004308" target="_blank">doi:10.1016/j.jviromet.2013.10.026</a></span>
 </div>
 
----
 
 <a id="10.1371/journal.ppat.1003481">&nbsp;</a>
 
