@@ -178,6 +178,12 @@ layout: publications
 
 <span class="pub-authors">Brar, N.K., Dhariwal, A., Åmdal, H.A., Junges, R., Salvadori, G., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A., Petersen, F.C.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- We used an <i>ex vivo</i> model of human oral biofilms to investigate the impact of ampicillin on biofilm viability</span><br><span style="display: inline-block; padding-bottom: 5px;">- Even low concentrations of ampicillin could shift the taxonomic profile and and enhance biofilm viability.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Ampicillin caused an increase of antibiotic resistance genes in <i>Streptococcus mitis</i>, which is known to transfer these genes to the pathogen, <i>Streptococcus pneumoniae</i>.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>npj Biofilms and Microbiomes</b>, 2024 April 2; 10:37 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=biofilm+ampicillin+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41522-024-00507-7" target="_blank">doi:10.1038/s41522-024-00507-7</a></span>
 </div>
 
@@ -196,6 +202,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This article provides a summary of the past, present, and future reserach directions of The Baker Lab since opening at OHSU</span><br><span style="display: inline-block; padding-bottom: 5px;">- The article also briefly defines the oral microbiome, and summarizes how bioinformatics and 'omics-based approaches have revolutionized oral health research.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>OHSU School of Dentistry Anthology</b>, 2023 December 19; 1(1):3-11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Baker+OHSU+dentistry" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.6083/bpxhc42395" target="_blank">doi:10.6083/bpxhc42395</a></span>
 </div>
 
@@ -209,6 +221,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Mark Welch, J.L., Kauffman, K., McLean, J.S., He, X.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This review highlights recent advances in our understanding of the human oral microbiome and its impact on human health</span><br><span style="display: inline-block; padding-bottom: 5px;">- There is a special focus on non-canonical members, such as fungi, viruses, ultrasmall bacteria.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The impact of hte oral microbiome on human health beyond the oral cavity is also reviewed in detail.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Nature Reviews Microbiology</b>, 2023 September 12 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+diversity+biogeography" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41579-023-00963-6" target="_blank">doi:10.1038/s41579-023-00963-6</a></span>
 </div>
 
@@ -221,6 +239,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1093/femsre/fuad051" target="_new">Illuminating the oral microbiome and its host interactions: recent advancements in omics and bioinformatics technologies in the context of oral microbiome research</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This review contains a comprehensive perspective of the current state-of-the-art tools available to perform microbial 'omics</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>FEMS Microbiology Reviews</b>, 2023 September 4 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+microbiome+omics+bioinformatics" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1093/femsre/fuad051" target="_blank">doi:10.1093/femsre/fuad051</a></span>
 </div>
