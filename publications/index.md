@@ -61,6 +61,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J., Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Showed for the first time the oral virome of children with childhood dental caries is different from those with healthy children.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identified a total of 1,865 unique species-level viral OTUs (vOTUs), of which 478 appeared to be novel.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Several vOTUs predicted to infect <i>Haemophilus</i> and <i>Neisseria</i> were strongly correlated with health, while 5 vOTUs predicted to infect <i>Saccharibacteria, Prevotella</i> and <i>Veillonella</i> were correlated with caries.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mSphere</b>, 2025 July 28 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=salivary+virome+dental+caries" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msphere.00198-25" target="_blank">doi:10.1128/msphere.00198-25</a></span>
 </div>
 
@@ -75,6 +81,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Staton, D.V., Tang, J., Barbisan, M.</span>, Nussbaum, J., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- The saliva of e-cigarette users had a lower pH and was depleted of <i>Neisseria</i> spp.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The impacts of e-cigarette usage and beetroot supplementation were somewhat limited, with beetroot juice extract supplementation having a significant impact on diversity according to some, but not all, diversity metrics examined.</span><br><span style="display: inline-block; padding-bottom: 5px;">- suggests that beetroot juice extract supplementation may impact the microbiota of e-cigarette users and adds to contemporary research paving the way for more in-depth studies examining the role of nitrate-rich supplements as prebiotics to promote oral health.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Oral Microbiology</b>, 2025 May 25 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Beta+vulgaris+oral+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1080/20002297.2025.2509669" target="_blank">doi:10.1080/20002297.2025.2509669</a></span>
 </div>
 
@@ -88,6 +100,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1111/omi.12494" target="_new">Shining Light on Oral Biofilm Fluorescent in situ Hybridization (FISH): Probing the accuracy of in situ biogeography studies</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M., Tang, J., Baker, J.L.</span>, Merritt, J., Kreth, J.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- The specificity of several commonly used FISH probes is compromised, with cross-species hybridization being more common than previously assumed</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Some biogeographical associations within <i>in situ</i> biofilms may need to be reassessed with more specific probes using the latest genomic data</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Molecular Oral Microbiology</b>, 2025 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=oral+biofilm+FISH+hybridization" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1111/omi.12494" target="_blank">doi:10.1111/omi.12494</a></span>
 </div>
@@ -106,6 +124,12 @@ layout: publications
 
 <span class="pub-authors">Hirose, Y., Zielenski, D.C., Poudel, S., Rychel, K., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Toya, Y., Heinken, A., Thiele, I., Kawabata, S., Palsson, B.O., Nizet, V.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- We present the first genome-scale model (GEM) for a highly virulent <i>Streptococcus pyogenes</i> serotype M1.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The GEM achieved high accuracy in predicting gene essentiality.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This model should provide useful insights for rational drug design against <i>S. pyogenes</i>.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mSystems</b>, 2024 August 19 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=genome-scale+metabolic+model+Streptococcus+pyogenes" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msystems.00736-24" target="_blank">doi:10.1128/msystems.00736-24</a></span>
 </div>
 
@@ -119,6 +143,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1186/s40168-024-01854-5" target="_new">Persistent enrichment of Klebsiella in oral and nasal microbiome community under long-term starvation</a></span>
 
 <span class="pub-authors">Liu, J., Spencer, N., Utter, D.R., Grossman, A., Santos, N.C.D., Shi, W., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Hasturk, H., He, X., Bor, B.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- When <i>Klebsiella pneumoniae</i> and <i>Klebsiella aerogenes</i> were present in a human nasal or oral sample, these two species came to dominate the community during <i>in vitro</i> starvation conditions.</span><br><span style="display: inline-block; padding-bottom: 5px;">- These <i>Klebsiella</i> were resistant to multiple classes of antibiotics.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This further supports our earlier work suggesting the <i>Klebsiella</i> win out versus other oral bacteria when the community is starved, possibly contributing to dissemination via hospital sinks and drains.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Microbiome</b>, 2024 July 20 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Klebsiella+microbiome+starvation" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1186/s40168-024-01854-5" target="_blank">doi:10.1186/s40168-024-01854-5</a></span>
 </div>
