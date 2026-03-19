@@ -349,7 +349,7 @@ layout: publications
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- Using and <i>in vitro</i> biofilm model, mutanobactin and reutericyclin, produced by <i>Streptococcus mutans</i> UA159 modulate community ecoogy.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Mutanocyclin specifically reduced <i>Limosilactobaciullus fermentum</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Muatnocyclin and reutericyclin appeared to inhibit the ability of <i>S. mutans</i> to engraft in an oral community.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- Using an <i>in vitro</i> biofilm model, we demonstrated that mutanobactin and reutericyclin, produced by <i>Streptococcus mutans</i> UA159, can modulate community ecoogy.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Mutanocyclin specifically reduced <i>Limosilactobaciullus fermentum</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Muatnocyclin and reutericyclin appeared to inhibit the ability of <i>S. mutans</i> to engraft in an oral community.</span>
 </div>
 </div>
 
