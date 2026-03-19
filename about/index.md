@@ -1,11 +1,11 @@
 ---
-title: "About"
+title: "Our Research"
 permalink: "/about/"
 layout: page
 ---
 
 
-# Research Projects
+# Projects
 
 <br/>
 
