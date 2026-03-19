@@ -11,6 +11,7 @@ layout: publications
 <br/><br/>
 
 
+Baker Lab members displayed in bold in the author lines.
 
 ## 2025
 ---
