@@ -81,7 +81,7 @@ layout: publications
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- The saliva of e-cigarette users had a lower pH and was depleted of <i>Neisseria</i> spp.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The impacts of e-cigarette usage and beetroot supplementation were somewhat limited, with beetroot juice extract supplementation having a significant impact on diversity according to some, but not all, diversity metrics examined.</span><br><span style="display: inline-block; padding-bottom: 5px;">- suggests that beetroot juice extract supplementation may impact the microbiota of e-cigarette users and adds to contemporary research paving the way for more in-depth studies examining the role of nitrate-rich supplements as prebiotics to promote oral health.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- The saliva of e-cigarette users had a lower pH and was depleted of <i>Neisseria</i> spp.</span><br><span style="display: inline-block; padding-bottom: 5px;">- The impacts of e-cigarette usage and beetroot supplementation were somewhat limited, with beetroot juice extract supplementation having a significant impact on diversity according to some, but not all, diversity metrics examined.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study suggests that beetroot juice extract supplementation may impact the microbiota of e-cigarette users and adds to contemporary research paving the way for more in-depth studies examining the role of nitrate-rich supplements as prebiotics to promote oral health.</span>
 </div>
 </div>
 
@@ -264,6 +264,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports development of the first protocol to obtain complete bacterial genomes from saliva samples using nanopore sequencing.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Using these methods on 3 saliva samples, 11 complete bacterial genomes were obtained.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  4 of the complete genomes were also the first complete genome of their species species.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>mSystems</b>, 2022 Aug 22 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=nanopore+sequencing+saliva" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msystems.00491-22" target="_blank">doi:10.1128/msystems.00491-22</a></span>
 </div>
 
@@ -279,6 +285,12 @@ layout: publications
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Tang, X., <span class="pub-member-author" title='An official member of the lab at the time of publication'>LaBonte, S.</span>, Uranga, C., Edlund, A.</span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study elucidates the function of <i>mucG</i> and <i>mucH</i> transcriptional regulators and the <i>mucI</i> transporter in reutericyclin and mutanocyclin production in <i>Streptococcus mutans</i> strain B04Sm5.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study also provides a pangenome of <i>Streptococcus mutans</i>.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2022 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=mucG+mucH+Streptococcus+mutans" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/jb.00042-22" target="_blank">doi:10.1128/jb.00042-22</a></span>
 </div>
 
@@ -291,6 +303,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.1128/mra.00023-22" target="_new">Complete genome sequence of Candidatus Nanosynbacter strain HMT-348_TM7c-JB, a member of <i>Saccharibacteria</i> Clade G1</a></span>
 
 <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This announcement reports the first complete genome sequence of a member of the HMT-348 clade of <i>Saccharibacteria</i>.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>Microbiology Resource Announcements</b>, 2022 April 11 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Nanosynbacter+Saccharibacteria" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mra.00023-22" target="_blank">doi:10.1128/mra.00023-22</a></span>
 </div>
@@ -305,6 +323,12 @@ layout: publications
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/msystems.01272-21"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msystems.01272-21" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 <span class="pub-title"><a href="https://doi.org/10.1128/msystems.01272-21" target="_new">Analysis of the <i>Streptococcus mutans</i> proteome during acid and oxidative stress reveals modules of co-expression and an expanded role for the TreR transcriptional regulator</a></span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports changes in the <i>Streptococcus mutans</i> proteome during acid and oxidative stresses</span><br><span style="display: inline-block; padding-bottom: 5px;">- This dataset provides oral health researchers with a proteome atlas that will enable a more complete understanding of the <i>Streptococcus mutans</i> stress responses that are required for pathogenesis, and will facilitate the development of new and improved therapeutic approaches for dental caries</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study explains the oxygen-sensitive phenotype of the <i>treR</i> deletion strain, which stems from lowered expression of the mutanobactin biosynthetic gene cluster.</span>
+</div>
+</div>
 
 <span class="pub-authors">Tinder, E.L., Faustoferri, R.C., Buckley, A.A., Quivey, Jr., R.G., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
@@ -323,6 +347,12 @@ layout: publications
 
 <span class="pub-authors">Uranga, C., Nelson, K.E., Edlund, A., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- Using and <i>in vitro</i> biofilm model, mutanobactin and reutericyclin, produced by <i>Streptococcus mutans</i> UA159 modulate community ecoogy.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Mutanocyclin specifically reduced <i>Limosilactobaciullus fermentum</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  Muatnocyclin and reutericyclin appeared to inhibit the ability of <i>S. mutans</i> to engraft in an oral community.</span>
+</div>
+</div>
+
 <span class="pub-journal"> 📚 <b>Frontiers in Oral Health</b>, 2022 January 6; 2:796140 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=mutanocyclin+reutericyclin+biofilm" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3389/froh.2021.796140" target="_blank">doi:10.3389/froh.2021.796140</a></span>
 </div>
 
@@ -335,6 +365,12 @@ layout: publications
 <span class="pub-title"><a href="https://doi.org/10.3390/ijms222112050" target="_new">Multi-omics study of keystone bacterial species in a cystic fibrosis lung microbiome</a></span>
 
 <span class="pub-authors">Silveira, C.B., Cobian-Guemes, A.G., Uranga, C., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Edlund, A., Rohwer, F., Conrad, D.</span>
+
+<div class="pub-info">
+<div class="pub-highlights">
+<span style="display: inline-block; padding-bottom: 5px;">- This study reports development of the first protocol to obtain complete bacterial genomes from saliva samples using nanopore sequencing.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Using these methods on 3 saliva samples, 11 complete bacterial genomes were obtained.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  4 of the complete genomes were also the first complete genome of their species species.</span>
+</div>
+</div>
 
 <span class="pub-journal"> 📚 <b>International Journal of Molecular Sciences</b>, 2021 November 7; 22, 12050 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=cystic+fibrosis+lung+microbiome" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.3390/ijms222112050" target="_blank">doi:10.3390/ijms222112050</a></span>
 </div>
