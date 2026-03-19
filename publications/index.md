@@ -772,7 +772,7 @@ layout: publications
 
 <div class="pub-info">
 <div class="pub-highlights">
-<span style="display: inline-block; padding-bottom: 5px;">- Deletion of the NADH oxidase (<i>nox</i>) in <i>Streptococcus mutans</i> unexpectedly led to an increase in the NAD+/NADH ratio.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This turned out to be due to an increase in lactate dehydrogenase expression mediated by the redox sensing regulator, <i>rex</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The altered transcriptome and metabolome of the Δ<i>nox</ > strain were sufficient to impair its ability to compete with commensal peroxigenic oral streptococci during growth under aerobic conditions.</span>
+<span style="display: inline-block; padding-bottom: 5px;">- Deletion of the NADH oxidase (<i>nox</i>) in <i>Streptococcus mutans</i> unexpectedly led to an increase in the NAD+/NADH ratio.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This turned out to be due to an increase in lactate dehydrogenase expression mediated by the redox sensing regulator, <i>rex</i>.</span><br><span style="display: inline-block; padding-bottom: 5px;">-  The altered transcriptome and metabolome of the Δ<i>nox</i> strain were sufficient to impair its ability to compete with commensal peroxigenic oral streptococci during growth under aerobic conditions.</span>
 </div>
 </div>
 
