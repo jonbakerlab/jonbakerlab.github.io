@@ -62,3 +62,8 @@ comments:
 # =========================
 plugins:
   - jekyll-feed
+
+# =========================
+# Table of Contents
+# =========================
+toc: true   # enable TOC on posts and pages (disable per-page with notoc: true in front matter)
