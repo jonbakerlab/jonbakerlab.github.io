@@ -4,6 +4,8 @@ permalink: "/lab-members/"
 layout: page
 ---
 
+---
+
 <img src="/assets/images/homepage-general/headshot-cropped.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Jonathon L. Baker, Ph.D.](./jonathon-baker/index.md)**  
@@ -33,7 +35,7 @@ layout: page
 
 <br/><br/>
 
-## Alumni 
+# Lab Alumni 
 
 <br/><br/>
 
