@@ -5,40 +5,46 @@ document.addEventListener('DOMContentLoaded', function () {
 
   if (!toc || !drawer || !tocHeader) return;
 
-  // Find headings inside the main article content
-  var article = document.querySelector('article');
-  if (!article) return;
-
-  var headings = article.querySelectorAll('h2, h3');
-  if (headings.length === 0) {
-    toc.style.display = 'none';
-    return;
-  }
-
-  // Build TOC list from headings
-  var ul = document.createElement('ul');
-  headings.forEach(function (heading, i) {
-    if (!heading.id) {
-      heading.id = 'toc-heading-' + i;
-    }
-
-    var li = document.createElement('li');
-    if (heading.tagName === 'H3') {
-      li.classList.add('toc-h3');
-    }
-
-    var a = document.createElement('a');
-    a.href = '#' + heading.id;
-    a.textContent = heading.textContent;
-
-    li.appendChild(a);
-    ul.appendChild(li);
-  });
-
-  drawer.appendChild(ul);
-
   // Toggle drawer visibility when header is clicked
   tocHeader.addEventListener('click', function () {
     drawer.classList.toggle('js-hidden');
+  });
+
+  // Highlight active section on scroll
+  var headings = document.querySelectorAll('article h1[id], article h2[id], article h3[id], article h4[id], article h5[id], article h6[id]');
+  if (headings.length === 0) return;
+
+  window.addEventListener('scroll', function () {
+    var scrollPos = window.scrollY || document.documentElement.scrollTop;
+    var viewMid = scrollPos + window.innerHeight / 2;
+    var activeId = null;
+
+    headings.forEach(function (heading) {
+      if (heading.getBoundingClientRect().top + scrollPos <= viewMid) {
+        activeId = heading.id;
+      }
+    });
+
+    if (activeId) {
+      toc.querySelectorAll('a').forEach(function (link) {
+        link.classList.remove('header-active');
+      });
+      var activeLink = toc.querySelector('a[href="#' + activeId + '"]');
+      if (activeLink) {
+        activeLink.classList.add('header-active');
+      }
+    }
+  });
+
+  // Smooth scrolling for TOC links
+  toc.querySelectorAll('a[href^="#"]').forEach(function (link) {
+    link.addEventListener('click', function (event) {
+      var target = document.getElementById(this.getAttribute('href').slice(1));
+      if (target) {
+        event.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth' });
+        history.pushState(null, '', this.getAttribute('href'));
+      }
+    });
   });
 });
