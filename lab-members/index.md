@@ -40,14 +40,14 @@ layout: page
 <img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Sadie Drucker](./sadie-drucker/index.md)**  
-**NIH Dental & Oral Research Summer (DORS) Scholar**
+**2025 NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
 
 <img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Michelle Lee](./michelle-lee/index.md)**  
-**NIH Dental & Oral Research Summer (DORS) Scholar**
+**2025 NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
 
@@ -76,20 +76,20 @@ layout: page
 
 
 **[Saarin Rao](./saarin-rao/index.md)**  
-**NIH WINDOWS Scholar**
+**2024 NIH WINDOWS Scholar**
 
 <br/><br/>
 
 <img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Samantha Williams](./samantha-williams/index.md)**  
-**NIH Dental & Oral Research Summer (DORS) Scholar**  
+**2024 NIH Dental & Oral Research Summer (DORS) Scholar**  
 
 <br/><br/>
 
 <img src="/assets/images/homepage-general/katie-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **[Katie Crofton](./katie-crofton/index.md)**  
-**NIH Dental & Oral Research Summer (DORS) Scholar**
+**2024 NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
