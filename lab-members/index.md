@@ -39,6 +39,7 @@ layout: page
 <br/><br/>
 
 # Lab Alumni 
+---
 
 <br/><br/>
 
