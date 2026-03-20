@@ -323,13 +323,13 @@ Baker Lab members displayed in bold in the author lines.
 <div class="__dimensions_badge_embed__" data-doi="10.1128/msystems.01272-21" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
 <span class="pub-title"><a href="https://doi.org/10.1128/msystems.01272-21" target="_new">Analysis of the <i>Streptococcus mutans</i> proteome during acid and oxidative stress reveals modules of co-expression and an expanded role for the TreR transcriptional regulator</a></span>
 
+<span class="pub-authors">Tinder, E.L., Faustoferri, R.C., Buckley, A.A., Quivey, Jr., R.G., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
+
 <div class="pub-info">
 <div class="pub-highlights">
 <span style="display: inline-block; padding-bottom: 5px;">- This study reports changes in the <i>Streptococcus mutans</i> proteome during acid and oxidative stresses</span><br><span style="display: inline-block; padding-bottom: 5px;">- This dataset provides oral health researchers with a proteome atlas that will enable a more complete understanding of the <i>Streptococcus mutans</i> stress responses that are required for pathogenesis, and will facilitate the development of new and improved therapeutic approaches for dental caries.</span><br><span style="display: inline-block; padding-bottom: 5px;">- This study explains the oxygen-sensitive phenotype of the <i>treR</i> deletion strain, which stems from lowered expression of the mutanobactin biosynthetic gene cluster.</span>
 </div>
 </div>
-
-<span class="pub-authors">Tinder, E.L., Faustoferri, R.C., Buckley, A.A., Quivey, Jr., R.G., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span></span>
 
 <span class="pub-journal"> 📚 <b>mSystems</b>, 2022 March 15 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Streptococcus+mutans+proteome+stress" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/msystems.01272-21" target="_blank">doi:10.1128/msystems.01272-21</a></span>
 </div>
