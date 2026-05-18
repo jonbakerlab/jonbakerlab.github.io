@@ -13,6 +13,23 @@ layout: publications
 
 Baker Lab members displayed in bold in the author lines.
 
+## 2026
+
+---
+<a id="10.1038/s41522-026-01006-7">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41522-026-01006-7"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41522-026-01006-7" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://www.nature.com/articles/s41522-026-01006-7" target="_new">Drug repurposing for glucosyltransferase inhibition for targeted oral biofilm disruption</a></span>
+    <span class="pub-authors">de Lucena, F.S., Logan, M.G, Lewis, S.H., Zhang, H.,<span class="pub-member-author" title='An official member of the lab at the time of publication'>Barbisan, M.</span>, Icimono, M.Y., Wu, H., Higashi, D., Merrit, J.L., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Pfeifer, C.S.</span>
+    <div class="pub-info">
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Screened 4,575 regulatory-approved compounds for inhibition of  <i>Streptococcus mutans</i> GtfC.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identified two lead compounds, Radotinib and Pranlukast.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Radotinib selectively inhibited <i>Streptococcus mutans</i> while preserving commensal species.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>npj Biofilms & Microbiomes</b>, 2026 May 16 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=corynebacteria+oral+ecology" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.nature.com/articles/s41522-026-01006-7" target="_blank">doi:10.1038/s41522-026-01006-7</a></span>
+</div>
+
 ## 2025
 ---
 
