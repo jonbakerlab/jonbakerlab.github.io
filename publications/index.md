@@ -27,7 +27,7 @@ Baker Lab members displayed in bold in the author lines.
     <span style="display: inline-block; padding-bottom: 5px;">- Screened 4,575 regulatory-approved compounds for inhibition of  <i>Streptococcus mutans</i> GtfC.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Identified two lead compounds, Radotinib and Pranlukast.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Radotinib selectively inhibited <i>Streptococcus mutans</i> while preserving commensal species.</span>
     </div>
     </div>
-    <span class="pub-journal"> 📚 <b>npj Biofilms & Microbiomes</b>, 2026 May 16 | 🔍 <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C38&q=Drug+repurposing+for+glucosyltransferase+inhibition+for+targeted+oral+biofilm+disruption&btnG="_blank">Google Scholar</a> | 🔗 <a href="https://www.nature.com/articles/s41522-026-01006-7" target="_blank">doi:10.1038/s41522-026-01006-7</a></span>
+    <span class="pub-journal"> 📚 <b>npj Biofilms & Microbiomes</b>, 2026 May 16 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=baker+pfeifer+merritt" target="_blank">Google Scholar</a> | 🔗 <a href="https://www.nature.com/articles/s41522-026-01006-7" target="_blank">doi:10.1038/s41522-026-01006-7</a></span>
 </div>
 
 ## 2025
