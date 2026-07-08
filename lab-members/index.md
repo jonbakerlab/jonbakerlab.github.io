@@ -38,17 +38,36 @@ layout: page
 
 <br/><br/>
 
-# Lab Alumni 
----
+<img src="/assets/images/homepage-general/daniel-kim-crop.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+### **[Daniel Kim](./daniel-kim/index.md)**  
+**Dental Student**  
 
 <br/><br/>
 
 <img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **[Sadie Drucker](./sadie-drucker/index.md)**  
-**2025 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2025 & 2026 NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
+
+<img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+### **[Luke Markowski](./luke-markowski/index.md)**  
+**2026 NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+<img src="/assets/images/homepage-general/sadie-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+
+### **[Graysen Voss](./graysen-voss/index.md)**  
+**2026 NIH Dental & Oral Research Summer (DORS) Scholar**
+
+<br/><br/>
+
+# Lab Alumni 
+---
 
 <img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
