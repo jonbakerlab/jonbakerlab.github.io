@@ -1,4 +1,4 @@
-<img src="/assets/images/homepage-general/daniel-kim-crop.jpg" width="300" height="310" style="display: inline; margin: 10px;" />
+<img src="/assets/images/homepage-general/graysen-voss-crop.jpg" width="300" height="310" style="display: inline; margin: 10px;" />
 
 <br/>
 
