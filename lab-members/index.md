@@ -52,14 +52,14 @@ layout: page
 
 <br/><br/>
 
-<img src="/assets/images/homepage-general/luke-markowski-crop.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+<img src="/assets/images/homepage-general/luke-markowski-crop.png" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **[Luke Markowski](./luke-markowski/index.md)**  
 **2026 NIH Dental & Oral Research Summer (DORS) Scholar**
 
 <br/><br/>
 
-<img src="/assets/images/homepage-general/graysen-voss-crop.jpg" width="200" height="205" style="display: inline; margin: auto;" />
+<img src="/assets/images/homepage-general/graysen-voss-crop.png" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **[Graysen Voss](./graysen-voss/index.md)**  
 **2026 NIH Dental & Oral Research Summer (DORS) Scholar**
