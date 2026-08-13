@@ -16,6 +16,34 @@ Baker Lab members displayed in bold in the author lines.
 ## 2026
 
 ---
+
+<a id="10.1128/mbio.00647-26">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/mbio.00647-26"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/mbio.00647-26" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1128/mbio.00647-26" target="_new">mGem: Dentistry is strategically positioned yet underleveraged in the battle against antimicrobial resistance</a></span>
+    <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, Dahle, U.R., Petersen, F.C.</span>
+    <div class="pub-info">
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Perspective arguing dentistry contributes substantially to outpatient antibiotic prescribing and is underintegrated into AMR policy.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Calls for inclusion of dentistry in National Action Plans, standardized dental prescribing guidelines, surveillance, and stewardship education.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Proposes practical policy actions to better integrate dentistry into One Health AMR efforts.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>mBio</b>, 2026 Aug 10 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=dentistry+antimicrobial+resistance" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/mbio.00647-26" target="_blank">doi:10.1128/mbio.00647-26</a></span>
+</div>
+
+<a id="10.1128/jb.00026-26">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1128/jb.00026-26"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1128/jb.00026-26" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1128/jb.00026-26" target="_new">Monounsaturated fatty acid biosynthesis is critical for streptococcal envelope homeostasis and stress tolerance</a></span>
+    <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Baker, J.L.</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Tang, J.</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Guo, M.</span>, Farias-da-Silva, F.F., <span class="pub-member-author" title='An official member of the lab at the time of publication'>Barbisan, M.</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Burnside, M.</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Crofton, K.</span>, SHOW ALL (17 AUTHORS)</span>
+    <div class="pub-info">
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Deletion of fabM eliminates production of unsaturated fatty acids (UFAs) in S. mutans, S. pyogenes, and S. pneumoniae and severely impairs growth.</span><br><span style="display: inline-block; padding-bottom: 5px;">- MUFA biosynthesis is required for envelope homeostasis, stress tolerance, and contributes to antibiotic susceptibility and virulence-associated traits.</span><br><span style="display: inline-block; padding-bottom: 5px;">- Exogenous UFAs can rescue growth and some phenotypes, highlighting species- and context-dependent roles of lipid metabolism.</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>Journal of Bacteriology</b>, 2026 Aug 7 | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=monounsaturated+fatty+acid+Streptococcus+fabM" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1128/jb.00026-26" target="_blank">doi:10.1128/jb.00026-26</a></span>
+</div>
 <a id="10.1038/s41522-026-01006-7">&nbsp;</a>
 <div class="pub">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41522-026-01006-7"></div>
