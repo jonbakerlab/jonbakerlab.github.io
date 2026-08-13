@@ -6,4 +6,4 @@
 <span style="font-size:24px; font-weight: bold;">Sadie Drucker</span>  
 **NIH Dental & Oral Research Summer (DORS) Scholar**  
  
-Sadie Drucker is currently a senior at Scripps College. Sadie did an internship in the Baker Lab at OHSU in Summer 2025 through the NIH-Sponsored Dental & Oral Research Summer (DORS) Program. During her internship, Sadie recieved the "Best Presentation Award" at the 2025 OHSU Summer Intern Poster Symposium.
+Sadie Drucker is currently a senior at Scripps College, where continuing work with the Baker Lab is serving as her Senior Thesis. Sadie did an internship in the Baker Lab at OHSU in Summer 2025 and Summer 2026 through the NIH-Sponsored Dental & Oral Research Summer (DORS) Program. During her internship, Sadie recieved the "Best Presentation Award" at the 2025 OHSU Summer Intern Poster Symposium and presented her work at the 2026 International Association for Dental Resaerch (IADR) General Session in San Diego.
