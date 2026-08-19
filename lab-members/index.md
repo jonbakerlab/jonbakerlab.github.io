@@ -59,7 +59,7 @@ layout: page
 <img src="/assets/images/homepage-general/luke-markowski-crop.png" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Luke Markowski**  
-**2026 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2026 NIH Dental & Oral Research Summer (DORS) Scholar**  
 **Current: Undergraduate at West Virginia University**
 
 <br/><br/>
@@ -67,7 +67,7 @@ layout: page
 <img src="/assets/images/homepage-general/graysen-voss-crop.png" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Graysen Voss**  
-**2026 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2026 NIH Dental & Oral Research Summer (DORS) Scholar**  
 **Current: Undergraduate at Southern Oregon University**
 
 <br/><br/>
@@ -75,7 +75,7 @@ layout: page
 <img src="/assets/images/homepage-general/michelle-poster.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Michelle Lee**  
-**2025 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2025 NIH Dental & Oral Research Summer (DORS) Scholar**  
 **Current: Undergraduate at Oregon State University**
 
 <br/><br/>
@@ -83,7 +83,7 @@ layout: page
 <img src="/assets/images/homepage-general/jonah2.jpg" width="200" height="205" style="display: inline; margin: auto;" />  
 
 ### **Jonah Tang**  
-**2023-2025 Research Assistant**
+**2023-2025 Research Assistant**  
 **Current: Graduate Student at the University of Oregon**  
 
 <br/><br/>
@@ -91,7 +91,7 @@ layout: page
 <img src="/assets/images/homepage-general/felipe2.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Felipe Fabrício Farias da Silva, D.D.S., M.Sc.**  
-**2024-2025 CAPES Visiting Scholar**
+**2024-2025 CAPES Visiting Scholar**  
 **Current: PhD Student at UNICAMP (Brazil)**
 
 <br/><br/>
@@ -99,7 +99,7 @@ layout: page
 <img src="/assets/images/homepage-general/marisabel.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Marisabel Charlo Cabrera**  
-**2025 ANII Visiting Scholar**
+**2025 ANII Visiting Scholar**  
 **Current: Graduate Student at the University of the Republic (Uruguay)**
 
 <br/><br/>
@@ -108,7 +108,7 @@ layout: page
 
 
 ### **Saarin Rao**  
-**2024 NIH WINDOWS Scholar**
+**2024 NIH WINDOWS Scholar**  
 **Current: Undergraduate at Santa Clara University**
 
 <br/><br/>
@@ -116,7 +116,7 @@ layout: page
 <img src="/assets/images/homepage-general/samantha-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 ### **Samantha Williams**  
-**2024 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2024 NIH Dental & Oral Research Summer (DORS) Scholar**  
 **Current: DDS Student at the University of North Carolina Adams School of Dentsitry**
 
 <br/><br/>
@@ -124,7 +124,7 @@ layout: page
 <img src="/assets/images/homepage-general/katie-headshot.jpg" width="200" height="205" style="display: inline; margin: auto;" />
 
 **Katie Crofton**  
-**2024 NIH Dental & Oral Research Summer (DORS) Scholar**
+**2024 NIH Dental & Oral Research Summer (DORS) Scholar**  
 **Current: Research Assistant at the University of Central Florida**
 
 <br/><br/>
